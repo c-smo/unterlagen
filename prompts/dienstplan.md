@@ -8,3 +8,5 @@ Gehe davon aus, dass sich die Einträge innerhalb des aktuellen Monats/Jahres be
 und verwende die Zeitzone 'Europe/Vienna'. Generiere die vollständigen
 CSV-Daten in einem einzelnen Markdown-Codeblock.
 ```
+
+Die Ausgabe der KI kannst du z. B. als "dienstplan.csv" speichern. Diese Datei kann in fast jede Kalender-App importiert werden.
