@@ -1,10 +1,3 @@
-# Download
-e-Zeiterfassung -> Meine Monatsübersicht -> Berichte -> Meine/e DP/Zeitliste
-
-<img src="preview_dienstplan.png" alt="x" style="max-width: 100%; height: auto;">
-
----
-
 # Prompt
 ```
 Analysiere die bereitgestellte PDF-Datei (Dienstplan/Zeitliste). 
@@ -16,3 +9,16 @@ Generiere die vollständigen CSV-Daten in einem einzelnen Markdown-Codeblock.
 ```
 
 Die Ausgabe der KI kannst du z. B. als "dienstplan.csv" speichern. Diese Datei kann in fast jede Kalender-App importiert werden.
+
+---
+
+# Download
+Die PDF-Datei findest du unter:
+
+e-Zeiterfassung -> Meine Monatsübersicht -> Berichte -> Meine/e DP/Zeitliste
+
+<img src="preview_dienstplan.png" alt="x" style="max-width: 100%; height: auto;">
+
+
+
+
