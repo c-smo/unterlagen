@@ -1,7 +1,11 @@
-Download: e-Zeiterfassung -> Meine Monatsübersicht -> Berichte -> Meine/e DP/Zeitliste
+# Download
+e-Zeiterfassung -> Meine Monatsübersicht -> Berichte -> Meine/e DP/Zeitliste
 
 <img src="preview_dienstplan.png" alt="x" style="max-width: 100%; height: auto;">
 
+---
+
+# Prompt
 ```
 Analysiere die bereitgestellte PDF-Datei (Dienstplan/Zeitliste). 
 In der Datei ist eine Pause eingetragen.
