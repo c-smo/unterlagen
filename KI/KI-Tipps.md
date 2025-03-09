@@ -1,5 +1,3 @@
-rechtschreibkorrektur:
-
 # KI Tipps und Tricks
 
 ## Vorwort
