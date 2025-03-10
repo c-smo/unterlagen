@@ -1,4 +1,5 @@
 # Gartenpflege-Anleitung
+**Stand 10/03/25**
 
 ## Inhaltsverzeichnis:
 

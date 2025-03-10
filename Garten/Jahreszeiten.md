@@ -1,5 +1,5 @@
 # Jahreszeiten Überblick 
-**Stand 10/05/25**
+**Stand 10/03/25**
 
 # Inhaltsangabe
 
