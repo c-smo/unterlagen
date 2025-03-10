@@ -60,15 +60,15 @@
 
 **Oktober**: Pflanzenreste entfernen.
 
-**November**: Keine Arbeiten.
+**November**: -
 
-**Dezember**: Keine Arbeiten.
+**Dezember**: -
 
 ---
 
 ### <a name="1.2-chilis"></a>1.2 Chilis
 
-**Januar**: Keine direkten Arbeiten. Planung der Anzucht.
+**Januar**: -
 
 **Februar**: Anzucht beginnen.
 
@@ -88,17 +88,17 @@
 
 **Oktober**: Pflanzenreste entfernen.
 
-**November**: Keine Arbeiten.
+**November**: -
 
-**Dezember**: Keine Arbeiten.
+**Dezember**: -
 
 ---
 
 ### <a name="1.3-kürbisgurken"></a>1.3 Kürbis/Gurken
 
-**Januar**: Keine direkten Arbeiten. Planung der Anzucht.
+**Januar**: -
 
-**Februar**: Noch keine Arbeiten.
+**Februar**: -
 
 **März**: Vorkultur starten (späte Aussaat).
 
@@ -116,9 +116,9 @@
 
 **Oktober**: Pflanzenreste entfernen, Kürbis Lagerung vorbereiten.
 
-**November**: Keine Arbeiten.
+**November**: -
 
-**Dezember**: Keine Arbeiten.
+**Dezember**: -
 
 ---
 
@@ -156,7 +156,7 @@
 
 ### <a name="2.1-baerlauch"></a>2.1 Bärlauch
 
-**Januar**: Keine Arbeiten.
+**Januar**: -
 
 **Februar**: Bärlauch beginnt zu sprießen.
 
@@ -164,49 +164,49 @@
 
 **April**: Bärlauchernte endet.
 
-**Mai**: Keine Arbeiten.
+**Mai**: -
 
-**Juni**: Keine Arbeiten.
+**Juni**: -
 
-**Juli**: Keine Arbeiten.
+**Juli**: -
 
-**August**: Keine Arbeiten.
+**August**: -
 
-**September**: Keine Arbeiten.
+**September**: -
 
-**Oktober**: Keine Arbeiten.
+**Oktober**: -
 
-**November**: Keine Arbeiten.
+**November**: -
 
-**Dezember**: Keine Arbeiten.
+**Dezember**: -
 
 ---
 
 ### <a name="2.2-waldmeister"></a>2.2 Waldmeister
 
-**Januar**: Keine Arbeiten.
+**Januar**: -
 
-**Februar**: Keine Arbeiten.
+**Februar**: -
 
 **März**: Waldmeister beginnt zu wachsen.
 
 **April**: Waldmeister ernten (vor der Blüte).
 
-**Mai**: Keine Arbeiten.
+**Mai**: -
 
-**Juni**: Keine Arbeiten.
+**Juni**: -
 
-**Juli**: Keine Arbeiten.
+**Juli**: -
 
-**August**: Keine Arbeiten.
+**August**: -
 
-**September**: Keine Arbeiten.
+**September**: -
 
-**Oktober**: Keine Arbeiten.
+**Oktober**: -
 
-**November**: Keine Arbeiten.
+**November**: -
 
-**Dezember**: Keine Arbeiten.
+**Dezember**: -
 
 ---
 
@@ -214,9 +214,9 @@
 
 **Januar**: Winterharte Kräuter (Lavendel) bei Bedarf vor starker Sonneneinstrahlung schützen.
 
-**Februar**: Keine Arbeiten.
+**Februar**: -
 
-**März**: Keine Arbeiten.
+**März**: -
 
 **April**: Kräuter vermehren (Stecklinge).
 
@@ -242,9 +242,9 @@
 
 **Januar**: Winterharte Kräuter (Salbei) bei Bedarf vor starker Sonneneinstrahlung schützen.
 
-**Februar**: Keine Arbeiten.
+**Februar**: -
 
-**März**: Keine Arbeiten.
+**März**: -
 
 **April**: Kräuter vermehren (Stecklinge).
 
@@ -270,9 +270,9 @@
 
 **Januar**: Winterharte Kräuter (Pfefferminze) bei Bedarf vor starker Sonneneinstrahlung schützen.
 
-**Februar**: Keine Arbeiten.
+**Februar**: -
 
-**März**: Keine Arbeiten.
+**März**: -
 
 **April**: Kräuter vermehren (Stecklinge).
 
@@ -298,9 +298,9 @@
 
 **Januar**: Winterharte Kräuter (Melisse) bei Bedarf vor starker Sonneneinstrahlung schützen.
 
-**Februar**: Keine Arbeiten.
+**Februar**: -
 
-**März**: Keine Arbeiten.
+**März**: -
 
 **April**: Kräuter vermehren (Stecklinge).
 
@@ -326,9 +326,9 @@
 
 **Januar**: Winterharte Kräuter (Thymian) bei Bedarf vor starker Sonneneinstrahlung schützen.
 
-**Februar**: Keine Arbeiten.
+**Februar**: -
 
-**März**: Keine Arbeiten.
+**März**: -
 
 **April**: Kräuter vermehren (Stecklinge).
 
@@ -352,11 +352,11 @@
 
 ### <a name="2.8-muskatellersalbei"></a>2.8 Muskatellersalbei
 
-**Januar**: Keine Arbeiten.
+**Januar**: -
 
-**Februar**: Keine Arbeiten.
+**Februar**: -
 
-**März**: Keine Arbeiten.
+**März**: -
 
 **April**: Kräuter vermehren (Stecklinge).
 
@@ -380,9 +380,9 @@
 
 ### <a name="2.9-colakraut"></a>2.9 Colakraut
 
-**Januar**: Keine Arbeiten.
+**Januar**: -
 
-**Februar**: Keine Arbeiten.
+**Februar**: -
 
 **März**: Austrieb.
 
@@ -412,13 +412,13 @@
 
 ### <a name="3.1-himbeer--und-brombeerblaetter"></a>3.1 Himbeer- und Brombeerblätter
 
-**Januar**: Keine Arbeiten.
+**Januar**: -
 
-**Februar**: Keine Arbeiten.
+**Februar**: -
 
-**März**: Keine Arbeiten.
+**März**: -
 
-**April**: Keine Arbeiten.
+**April**: -
 
 **Mai**: Blätter beginnen auszutreiben.
 
@@ -430,21 +430,21 @@
 
 **September**: Ernte der Blätter einstellen.
 
-**Oktober**: Keine Arbeiten.
+**Oktober**: -
 
-**November**: Keine Arbeiten.
+**November**: -
 
-**Dezember**: Keine Arbeiten.
+**Dezember**: -
 
 ---
 
 ### <a name="3.2-rotklee"></a>3.2 Rotklee
 
-**Januar**: Keine Arbeiten.
+**Januar**: -
 
-**Februar**: Keine Arbeiten.
+**Februar**: -
 
-**März**: Keine Arbeiten.
+**März**: -
 
 **April**: Aussaat möglich.
 
@@ -458,19 +458,19 @@
 
 **September**: Rückschnitt nach der Blüte.
 
-**Oktober**: Keine Arbeiten.
+**Oktober**: -
 
-**November**: Keine Arbeiten.
+**November**: -
 
-**Dezember**: Keine Arbeiten.
+**Dezember**: -
 
 ---
 
 ### <a name="3.3-gaensebluemchen"></a>3.3 Gänseblümchen
 
-**Januar**: Keine Arbeiten.
+**Januar**: -
 
-**Februar**: Keine Arbeiten.
+**Februar**: -
 
 **März**: Blätter und Blüten können geerntet werden.
 
@@ -488,17 +488,17 @@
 
 **Oktober**: Blätter und Blüten können geerntet werden.
 
-**November**: Keine Arbeiten.
+**November**: -
 
-**Dezember**: Keine Arbeiten.
+**Dezember**: -
 
 ---
 
 ### <a name="3.4-spitzwegerich"></a>3.4 Spitzwegerich
 
-**Januar**: Keine Arbeiten.
+**Januar**: -
 
-**Februar**: Keine Arbeiten.
+**Februar**: -
 
 **März**: Junge Blätter können geerntet werden.
 
@@ -514,17 +514,17 @@
 
 **September**: Blätter ernten.
 
-**Oktober**: Keine Arbeiten.
+**Oktober**: -
 
-**November**: Keine Arbeiten.
+**November**: -
 
-**Dezember**: Keine Arbeiten.
+**Dezember**: -
 
 ---
 
 ### <a name="3.5-loewenzahnblaetter"></a>3.5 Löwenzahnblätter
 
-**Januar**: Keine Arbeiten.
+**Januar**: -
 
 **Februar**: Rosetten bilden sich.
 
@@ -538,21 +538,21 @@
 
 **Juli**: Blätter können noch vereinzelt geerntet werden.
 
-**August**: Keine Arbeiten.
+**August**: -
 
 **September**: Neue Blätter sprießen.
 
 **Oktober**: Blätter ernten.
 
-**November**: Keine Arbeiten.
+**November**: -
 
-**Dezember**: Keine Arbeiten.
+**Dezember**: -
 
 ---
 
 ### <a name="3.6-veilchen"></a>3.6 Veilchen
 
-**Januar**: Keine Arbeiten.
+**Januar**: -
 
 **Februar**: Erste Blüten zeigen sich.
 
@@ -564,17 +564,17 @@
 
 **Juni**: Erntezeit endet.
 
-**Juli**: Keine Arbeiten.
+**Juli**: -
 
-**August**: Keine Arbeiten.
+**August**: -
 
-**September**: Keine Arbeiten.
+**September**: -
 
-**Oktober**: Keine Arbeiten.
+**Oktober**: -
 
-**November**: Keine Arbeiten.
+**November**: -
 
-**Dezember**: Keine Arbeiten.
+**Dezember**: -
 
 ---
 
@@ -584,11 +584,11 @@
 
 ### <a name="4.1-holler-blueten-und-beeren"></a>4.1 Holler (Blüten und Beeren)
 
-**Januar**: Keine Arbeiten.
+**Januar**: -
 
-**Februar**: Keine Arbeiten.
+**Februar**: -
 
-**März**: Keine Arbeiten.
+**März**: -
 
 **April**: Holler beginnt zu blühen (je nach Witterung).
 
@@ -596,27 +596,27 @@
 
 **Juni**: Hollerblüten ernten (Ende der Saison).
 
-**Juli**: Keine Arbeiten.
+**Juli**: -
 
 **August**: Hollerbeeren reifen.
 
 **September**: Hollerbeeren ernten.
 
-**Oktober**: Keine Arbeiten.
+**Oktober**: -
 
-**November**: Keine Arbeiten.
+**November**: -
 
-**Dezember**: Keine Arbeiten.
+**Dezember**: -
 
 ---
 
 ### <a name="4.2-dirndl"></a>4.2 Dirndl
 
-**Januar**: Keine Arbeiten.
+**Januar**: -
 
-**Februar**: Keine Arbeiten.
+**Februar**: -
 
-**März**: Keine Arbeiten.
+**März**: -
 
 **April**: Dirndl Blütezeit beginnt.
 
@@ -628,13 +628,13 @@
 
 **August**: Dirndl Erntezeit endet.
 
-**September**: Keine Arbeiten.
+**September**: -
 
-**Oktober**: Keine Arbeiten.
+**Oktober**: -
 
-**November**: Keine Arbeiten.
+**November**: -
 
-**Dezember**: Keine Arbeiten.
+**Dezember**: -
 
 ---
 
@@ -644,11 +644,11 @@
 
 ### <a name="5.2-flieder"></a>5.2 Flieder
 
-**Januar**: Keine Arbeiten.
+**Januar**: -
 
-**Februar**: Keine Arbeiten.
+**Februar**: -
 
-**März**: Keine Arbeiten.
+**März**: -
 
 **April**: Flieder beginnt zu blühen.
 
@@ -656,14 +656,14 @@
 
 **Juni**: Verblühtes entfernen.
 
-**Juli**: Keine Arbeiten.
+**Juli**: -
 
-**August**: Keine Arbeiten.
+**August**: -
 
-**September**: Keine Arbeiten.
+**September**: -
 
-**Oktober**: Keine Arbeiten.
+**Oktober**: -
 
-**November**: Keine Arbeiten.
+**November**: -
 
-**Dezember**: Keine Arbeiten.
+**Dezember**: -

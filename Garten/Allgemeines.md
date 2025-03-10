@@ -1,5 +1,5 @@
 # Allgemeines
-**Stand 10/03/2025**
+**Stand 10/03/25**
 
 ---
 
