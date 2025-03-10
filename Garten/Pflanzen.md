@@ -28,11 +28,8 @@
 4.  **Obst & Beeren**
     *   [4.1 Holler (Blüten und Beeren)](#4.1-holler-blueten-und-beeren)
     *   [4.2 Dirndl](#4.2-dirndl)
-5.  **Zierpflanzen & Rosen**
-    *   [5.1 Rosenschnitt und -verarbeitung](#5.1-rosenschnitt-und--verarbeitung)
-    *   [5.2 Flieder](#5.2-flieder)
-6.  **Allgemeines**
-    *   [6.1 Düngen](#6.1-duengen)
+    *   [5.  **Zierpflanzen & Rosen**
+    *   [5.1 Flieder](#5.2-flieder)
 
 ---
 
@@ -592,50 +589,6 @@
 
 ## 5. Zierpflanzen & Rosen
 
-### <a name="5.1-rosenschnitt-und--verarbeitung"></a>5.1 Rosenschnitt und -verarbeitung
-
-**Januar**: Keine Arbeiten.
-
-**Februar**: Noch nicht schneiden.
-
-**März**: Noch nicht schneiden.
-
-**April**: Jetzt ist die Zeit für den Hauptschnitt (siehe Details unten).
-
-**Mai**: Verblühtes entfernen. Rosen Erste Rosenblüten.
-
-**Juni**: Verblühtes regelmäßig entfernen. Rosen Rosenblüten ernten.
-
-**Juli**: Verblühtes regelmäßig entfernen. Rosen Rosenblüten ernten.
-
-**August**: Verblühtes regelmäßig entfernen. Rosen Rosenblüten ernten.
-
-**September**: Leichter Rückschnitt (Formgebung).
-
-**Oktober**: Keine Arbeiten.
-
-**November**: Keine Arbeiten.
-
-**Dezember**: Keine Arbeiten.
-
-#### Rosenschnitt Detail:
-
-**Hauptschnitt (April)**:
-    Entferne alle toten, kranken oder beschädigten Triebe.
-    Schneide schwache Triebe auf 3-5 Augen zurück.
-    Starke Triebe auf 5-7 Augen zurückschneiden.
-    Achte auf eine "offene" Vasenform, um eine gute Belüftung zu gewährleisten.
-    Schneide immer schräg, ca. 5 mm oberhalb eines Auges, das nach außen zeigt.
-
-**Sommerschnitt (Juni - August)**:
-    Verblühtes regelmäßig entfernen, um die Bildung neuer Blüten zu fördern.
-    Schneide den Stiel bis zum nächsten voll entwickelten Blatt mit fünf Blättchen zurück.
-
-**Herbstschnitt (September)**:
-    Leichter Formgebungsschnitt.
-    Entferne lange, überhängende Triebe.
-    Schneide nicht zu stark, um die Winterhärte nicht zu beeinträchtigen.
-
 ### <a name="5.2-flieder"></a>5.2 Flieder
 
 **Januar**: Keine Arbeiten.
@@ -661,31 +614,3 @@
 **November**: Keine Arbeiten.
 
 **Dezember**: Keine Arbeiten.
-
-## 6. Allgemeines
-
-### <a name="6.1-duengen"></a>6.1 Düngen
-
-**Januar**: Keine Düngung.
-
-**Februar**: Keine Düngung.
-
-**März**: Keine Düngung.
-
-**April**: Kompost auf Gemüsebeete ausbringen.
-
-**Mai**: Tomaten, Chilis, Gurken nach dem Auspflanzen düngen (organischer Dünger).
-
-**Juni**: Starkzehrer (Tomaten, Kürbis, Gurken) nachdüngen.
-
-**Juli**: Weiterhin Starkzehrer (Tomaten, Kürbis, Gurken) nachdüngen.
-
-**August**: Keine Düngung mehr (Vorbereitung auf den Winter).
-
-**September**: Keine Düngung.
-
-**Oktober**: Keine Düngung.
-
-**November**: Keine Düngung.
-
-**Dezember**: Keine Düngung.
