@@ -1,7 +1,7 @@
 # Jahreszeiten Überblick 
 **Stand 10/03/25**
 
-# Inhaltsangabe
+## Inhaltsverzeichnis:
 
 *   [Jänner](#jänner) - Ruhezeit, Planung, Vorbereitung
 *   [Februar](#februar) - Voranzucht, Planung, Vorbereitung

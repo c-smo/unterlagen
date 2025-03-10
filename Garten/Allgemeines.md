@@ -1,44 +1,47 @@
-# Gartenpflege-Anleitung
-**Stand 10/03/25**
+# Allgemeines
 
-## Inhaltsverzeichnis:
+**Stand: 10.03.2025**
+
+---
+
+## Inhaltsverzeichnis
 
 1.  [Rosenschnitt](#rosenschnitt)
-2.  [Düngen](#duengen)
-3.  [Anzuchterde Bestellung bei Klaghofer](#anzuchterde-bestellung)
+2.  [Düngung](#duengen)
+3.  [Anzuchterde-Bestellung bei Klaghofer](#anzuchterde-bestellung)
 
 ---
 
 ## Rosenschnitt
 
-**Monatliche Aufgaben:**
+**Monatliche Übersicht:**
 
-*   **Januar**: Keine Arbeiten.
-*   **Februar**: Noch nicht schneiden.
-*   **März**: Noch nicht schneiden.
-*   **April**: Hauptschnitt durchführen (siehe Details unten).
-*   **Mai**: Verblühtes entfernen. Erste Rosenblüten.
-*   **Juni**: Verblühtes regelmäßig entfernen. Rosenblüten ernten.
-*   **Juli**: Verblühtes regelmäßig entfernen. Rosenblüten ernten.
-*   **August**: Verblühtes regelmäßig entfernen. Rosenblüten ernten.
-*   **September**: Leichter Rückschnitt (Formgebung).
-*   **Oktober**: Keine Arbeiten.
-*   **November**: Keine Arbeiten.
-*   **Dezember**: Keine Arbeiten.
+*   **Januar:** Keine besonderen Arbeiten.
+*   **Februar:** Noch nicht schneiden.
+*   **März:** Noch nicht schneiden.
+*   **April:** Hauptschnitt durchführen (siehe Details unten).
+*   **Mai:** Verblühtes entfernen. Die ersten Rosenblüten können erscheinen.
+*   **Juni:** Verblühtes regelmäßig entfernen. Rosenblüten ernten.
+*   **Juli:** Verblühtes regelmäßig entfernen. Rosenblüten ernten.
+*   **August:** Verblühtes regelmäßig entfernen. Rosenblüten ernten.
+*   **September:** Leichter Rückschnitt zur Formgebung.
+*   **Oktober:** Keine besonderen Arbeiten.
+*   **November:** Keine besonderen Arbeiten.
+*   **Dezember:** Keine besonderen Arbeiten.
 
-#### Rosenschnitt - Detaillierte Anweisungen:
+#### Rosenschnitt – Detaillierte Anleitung:
 
 **Hauptschnitt (April):**
 
-1.  **Vorbereitung:** Verwende saubere und scharfe Rosenschere.
+1.  **Vorbereitung:** Verwende eine saubere und scharfe Rosenschere.
 2.  **Entfernen:** Entferne alle toten, kranken oder beschädigten Triebe direkt am Ansatz.
 3.  **Stärke beurteilen:**
-    *   **Schwache Triebe:** Auf 3-5 Augen zurückschneiden.
-    *   **Starke Triebe:** Auf 5-7 Augen zurückschneiden.
+    *   **Schwache Triebe:** Auf 3–5 Augen (Knospen) zurückschneiden.
+    *   **Starke Triebe:** Auf 5–7 Augen (Knospen) zurückschneiden.
 4.  **Formgebung:** Achte auf eine "offene" Vasenform, um eine gute Belüftung zu gewährleisten und Krankheiten vorzubeugen.
-5.  **Schnitttechnik:** Schneide immer schräg, ca. 5 mm oberhalb eines Auges (Knospe), das nach außen zeigt.  Ein Auge, das nach außen zeigt, fördert das Wachstum in diese Richtung und verhindert, dass Triebe in die Mitte der Pflanze wachsen.
+5.  **Schnitttechnik:** Schneide immer schräg, etwa 5 mm oberhalb eines Auges (Knospe), das nach außen zeigt. Dies fördert das Wachstum in diese Richtung und verhindert, dass Triebe in die Mitte der Pflanze wachsen.
 
-**Sommerschnitt (Juni - August):**
+**Sommerschnitt (Juni – August):**
 
 1.  **Ziel:** Regelmäßiges Entfernen von Verblühtem, um die Bildung neuer Blüten zu fördern.
 2.  **Schnittpunkt:** Schneide den Stiel bis zum nächsten voll entwickelten Blatt mit fünf Blättchen zurück.
@@ -49,30 +52,30 @@
 2.  **Entfernen:** Entferne lange, überhängende Triebe.
 3.  **Vorsicht:** Schneide nicht zu stark, um die Winterhärte der Rosen nicht zu beeinträchtigen. Ein zu starker Rückschnitt kann die Rosen anfälliger für Frostschäden machen.
 
-## Düngen
+## Düngung
 
-**Monatliche Aufgaben:**
+**Monatliche Übersicht:**
 
-*   **Januar**: Keine Düngung.
-*   **Februar**: Keine Düngung.
-*   **März**: Keine Düngung.
-*   **April**: Kompost auf Gemüsebeete ausbringen.
-*   **Mai**: Tomaten, Chilis, Gurken nach dem Auspflanzen düngen (organischer Dünger).
-*   **Juni**: Starkzehrer (Tomaten, Kürbis, Gurken) nachdüngen.
-*   **Juli**: Weiterhin Starkzehrer (Tomaten, Kürbis, Gurken) nachdüngen.
-*   **August**: Keine Düngung mehr (Vorbereitung auf den Winter).
-*   **September**: Keine Düngung.
-*   **Oktober**: Keine Düngung.
-*   **November**: Keine Düngung.
-*   **Dezember**: Keine Düngung.
+*   **Januar:** Keine Düngung erforderlich.
+*   **Februar:** Keine Düngung erforderlich.
+*   **März:** Keine Düngung erforderlich.
+*   **April:** Kompost auf Gemüsebeete ausbringen.
+*   **Mai:** Tomaten, Chilis und Gurken nach dem Auspflanzen düngen (vorzugsweise mit organischem Dünger).
+*   **Juni:** Starkzehrer (Tomaten, Kürbis, Gurken) nachdüngen.
+*   **Juli:** Starkzehrer (Tomaten, Kürbis, Gurken) weiterhin nachdüngen.
+*   **August:** Keine Düngung mehr (Vorbereitung auf den Winter).
+*   **September:** Keine Düngung erforderlich.
+*   **Oktober:** Keine Düngung erforderlich.
+*   **November:** Keine Düngung erforderlich.
+*   **Dezember:** Keine Düngung erforderlich.
 
-## <a name="anzuchterde-bestellung"></a>Anzuchterde Bestellung bei Klaghofer: Anleitung
+## <a name="anzuchterde-bestellung"></a>Anzuchterde-Bestellung bei Klaghofer: Anleitung
 
 **Ziel:** Anzuchterde und gegebenenfalls Erde für Hochbeete/Beete bei Klaghofer bestellen.
 
 **Verfügbare Produkte (unter "Spezialerden"):**
 
-*   **COMPO BIO Anzucht- und Kräutererde 20L:** Geeignet für die Anzucht. Bisher wurde eine halbe Palette bestellt (mit Rabatt) und abgeholt.
+*   **COMPO BIO Anzucht- und Kräutererde 20L:** Geeignet für die Anzucht. Es besteht die Möglichkeit, eine halbe Palette mit Rabatt zu bestellen und abzuholen.
 *   **COMPO BIO Tomaten- und Gemüseerde 20L:** Geeignet für die Anzucht und zum Pikieren von Fruchtgemüse.
 
 **Für Hochbeete/Beete (unter "Gartenerde"):**
@@ -82,9 +85,9 @@
 **Bestellvorgang:**
 
 1.  **Webkatalog besuchen:** [Klaghofer Web-Katalog](https://klaghofer.com/webkatalog/gartenbedarf/erden.html)
-2.  **Produkt auswählen:** Entscheiden Sie, welche Erde(n) in welcher Menge benötigt werden.
+2.  **Produkt auswählen:** Wähle die benötigte Erde(n) und Menge aus.
 3.  **Bestellung aufgeben:**
     *   **Telefonisch:** 01 914 61 05
     *   **Per E-Mail:** baustoffe@klaghofer.at
-4.  **Details angeben:** Geben Sie die gewünschten Produkte, Mengen und Liefer- bzw. Abholbedingungen an.  Erkundigen Sie sich nach möglichen Rabatten für größere Bestellmengen (z.B. halbe Palette).
-5.  **Abholung/Lieferung organisieren:** Klären Sie, wer die Bestellung abholt oder ob eine Lieferung gewünscht ist.
+4.  **Details angeben:** Nenne die gewünschten Produkte, Mengen sowie Liefer- oder Abholbedingungen. Erkundige dich nach möglichen Rabatten für größere Bestellmengen (z. B. halbe Palette).
+5.  **Abholung/Lieferung organisieren:** Kläre, wer die Bestellung abholt oder ob eine Lieferung gewünscht ist.
