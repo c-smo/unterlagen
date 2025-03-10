@@ -1,213 +1,691 @@
-# Jahreszeiten Überblick 
-**Stand 10/05/25**
+# Pflanzen - Überblick
+**Stand 10/03/25
 
-# Inhaltsangabe
+## Inhaltsverzeichnis:
 
-*   [Jänner](#jänner) - Ruhezeit, Planung, Vorbereitung
-*   [Februar](#februar) - Voranzucht, Planung, Vorbereitung
-*   [März](#märz) - Voranzucht, erste Freilandarbeiten
-*   [April](#april) - Pflanzzeit, Aussaat, Pflege
-*   [Mai](#mai) - Pflanzzeit, Pflege, erste Ernte
-*   [Juni](#juni) - Pflege, Ernte, Aussaat
-*   [Juli](#juli) - Ernte, Pflege
-*   [August](#august) - Ernte, Vorbereitung auf den Herbst
-*   [September](#september) - Ernte, Vorbereitung auf den Winter
-*   [Oktober](#oktober) - Ernte, Rückschnitt, Winterschutz
-*   [November](#november) - Winterschutz, Aufräumen, Planung
-*   [Dezember](#dezember) - Ruhezeit, Planung, Vorbereitung
-
----
-
-# Jänner
-## Ruhezeit, Planung, Vorbereitung
-**Vogelfütterung**: Regelmäßig Futter bereitstellen (besonders wichtig bei Schnee).
-
-**Futterproduktion**: Selbstgemachte Meisenknödel herstellen (mit Unterstützung der Gruppenmitglieder).
-
-**Beetkontrolle**: Überprüfen, ob die Abdeckung (z.B. Reisig, Laub) noch ausreichend ist. Bei Bedarf ergänzen.
-
-**Werkzeugpflege**: Gartenwerkzeuge reinigen, schärfen und ölen.
-
-**Samenbestellung**: Kataloge durchstöbern und Samen für das kommende Gartenjahr bestellen.
-
-**Innenraumpflege**: Zimmerpflanzen pflegen, umtopfen oder vermehren.
-
-**Planung**: Beetpläne erstellen, Anbauplanung für das kommende Jahr festlegen.
-
-**Lagerhaltung**: Lagerobst kontrollieren.
-
-**Kulinarisches**: Nüsse knacken, sortieren und abfüllen. Dörrobst trocknen.
-
-**Sonstiges**: Schnee schaufeln, Brennholz sägen, Glashaus in Ordnung bringen.
+1.  **Gemüse**
+    *   [1.1 Tomaten](#1.1-tomaten)
+    *   [1.2 Chilis](#1.2-chilis)
+    *   [1.3 Kürbis/Gurken](#1.3-kürbisgurken)
+    *   [1.4 Wurzelgemüse](#1.4-wurzelgemüse)
+2.  **Kräuter**
+    *   [2.1 Bärlauch](#2.1-baerlauch)
+    *   [2.2 Waldmeister](#2.2-waldmeister)
+    *   [2.3 Lavendel](#2.3-lavendel)
+    *   [2.4 Salbei](#2.4-salbei)
+    *   [2.5 Pfefferminze](#2.5-pfefferminze)
+    *   [2.6 Melisse](#2.6-melisse)
+    *   [2.7 Thymian](#2.7-thymian)
+    *   [2.8 Muskatellersalbei](#2.8-muskatellersalbei)
+    *   [2.9 Colakraut](#2.9-colakraut)
+3.  **Wildkräuter & Blätter**
+    *   [3.1 Himbeer- und Brombeerblätter](#3.1-himbeer--und-brombeerblaetter)
+    *   [3.2 Rotklee](#3.2-rotklee)
+    *   [3.3 Gänseblümchen](#3.3-gaensebluemchen)
+    *   [3.4 Spitzwegerich](#3.4-spitzwegerich)
+    *   [3.5 Löwenzahnblätter](#3.5-loewenzahnblaetter)
+    *   [3.6 Veilchen](#3.6-veilchen)
+4.  **Obst & Beeren**
+    *   [4.1 Holler (Blüten und Beeren)](#4.1-holler-blueten-und-beeren)
+    *   [4.2 Dirndl](#4.2-dirndl)
+5.  **Zierpflanzen & Rosen**
+    *   [5.1 Rosenschnitt und -verarbeitung](#5.1-rosenschnitt-und--verarbeitung)
+    *   [5.2 Flieder](#5.2-flieder)
+6.  **Allgemeines**
+    *   [6.1 Düngen](#6.1-duengen)
 
 ---
 
-# Februar
-## Voranzucht, Planung, Vorbereitung
-**Vogelfütterung**: Fortsetzen, aber Menge reduzieren, wenn das Wetter milder wird.
+## 1. Gemüse
 
-**Voranzucht**: Start mit der Ansaat von Chilis, Paprika, Auberginen, Tomaten und Kräutern (im Innenbereich).
+### <a name="1.1-tomaten"></a>1.1 Tomaten
 
-**Aussaatvorbereitung**: Anzuchterde vorbereiten, Anzuchtschalen reinigen.
+**Januar**: -
 
-**Beetvorbereitung**: Bei frostfreiem Wetter Kompost oder Mist auf die Beete ausbringen.
+**Februar**: Anzucht beginnen.
 
-**Obstbaumschnitt**: An frostfreien Tagen Obstbäume schneiden.
+**März**: Pikieren der Tomatenpflanzen.
 
-**Planung**: Beetpläne verfeinern, Anbaukalender erstellen.
+**April**: Tomaten abhärten.
 
-**Heckenpflege**: Hecke schneiden und verjüngen.
+**Mai**: Nach den Eisheiligen auspflanzen. Stützen anbringen.
 
-**Lagerhaltung**: Lagerobst kontrollieren.
+**Juni**: Ausgeizen, hochbinden, regelmäßig gießen.
 
-**Kulinarisches**: Dörrobst trocknen.
+**Juli**: Ernte beginnt. Weiterhin ausgeizen, gießen, düngen.
 
-**Sonstiges**: Schnee schaufeln.
+**August**: Ernte. Weiterhin ausgeizen, gießen, düngen.
 
----
+**September**: Ernte. Grüne Tomaten ausreifen lassen.
 
-# März
-## Voranzucht, erste Freilandarbeiten
-**Voranzucht**: Pikieren der Jungpflanzen (z.B. Tomaten, Paprika).
+**Oktober**: Pflanzenreste entfernen.
 
-**Aussaat**: Direktsaat von Radieschen, Spinat, Salat, Karotten und Erbsen (bei geeignetem Wetter).
+**November**: Keine Arbeiten.
 
-**Beetvorbereitung**: Beete lockern, Unkraut entfernen.
+**Dezember**: Keine Arbeiten.
 
-**Kompostierung**: Kompost umsetzen und reifen Kompost ausbringen.
+### <a name="1.2-chilis"></a>1.2 Chilis
 
-**Frühblüherpflege**: Verblühte Frühblüher entfernen.
+**Januar**: Keine direkten Arbeiten. Planung der Anzucht.
 
-**Gerätekontrolle**: Funktionstüchtigkeit der Gartengeräte überprüfen und reparieren.
+**Februar**: Anzucht beginnen.
 
----
+**März**: Pikieren der Chilipflanzen.
 
-# April
-## Pflanzzeit, Aussaat, Pflege
-**Aussaat**: Direktsaat von Ringelblumen, Kapuzinerkresse, Sonnenblumen und Kräutern.
+**April**: Chilis abhärten.
 
-**Pflanzung**: Auspflanzen von vorgezogenen Pflanzen (z.B. Salat, Kohlrabi, Kräuter).
+**Mai**: Nach den Eisheiligen auspflanzen.
 
-**Beetpflege**: Regelmäßig Unkraut entfernen, Boden lockern.
+**Juni**: Gießen, düngen.
 
-**Schneckenkontrolle**: Maßnahmen gegen Schnecken ergreifen.
+**Juli**: Ernte beginnt (frühe Sorten). Gießen, düngen.
 
-**Bewässerung**: Bei Bedarf gießen, besonders bei Trockenheit.
+**August**: Ernte. Gießen, düngen.
 
-**Mulchen**: Beete mit Mulchmaterial abdecken (z.B. Rasenschnitt, Stroh).
+**September**: Ernte.
 
----
+**Oktober**: Pflanzenreste entfernen.
 
-# Mai
-## Pflanzzeit, Pflege, erste Ernte
-**Pflanzung**: Auspflanzen von Tomaten, Paprika, Auberginen (nach den Eisheiligen).
+**November**: Keine Arbeiten.
 
-**Aussaat**: Direktsaat von Bohnen, Gurken und Zucchini.
+**Dezember**: Keine Arbeiten.
 
-**Beetpflege**: Regelmäßig Unkraut entfernen, Boden lockern.
+### <a name="1.3-kürbisgurken"></a>1.3 Kürbis/Gurken
 
-**Bewässerung**: Regelmäßig gießen, besonders bei Trockenheit.
+**Januar**: Keine direkten Arbeiten. Planung der Anzucht.
 
-**Düngung**: Gemüse und Kräuter düngen.
+**Februar**: Noch keine Arbeiten.
 
-**Ernte**: Erste Ernte von Radieschen, Salat, Spinat und Kräutern.
+**März**: Vorkultur starten (späte Aussaat).
 
----
+**April**: Vorkultur fortsetzen.
 
-# Juni
-## Pflege, Ernte, Aussaat
-**Pflege**: Regelmäßig gießen, düngen, Unkraut entfernen.
+**Mai**: Nach den Eisheiligen auspflanzen.
 
-**Ernte**: Ernte von Erdbeeren, Johannisbeeren, Himbeeren, Salat, Kräutern, Gemüse.
+**Juni**: Gießen, düngen.
 
-**Aussaat**: Aussaat von Buschbohnen, Salat und Kräutern für die Herbsternte.
+**Juli**: Ernte beginnt. Gießen, düngen.
 
-**Pflanzenstützung**: Tomaten und andere hochwachsende Pflanzen stützen.
+**August**: Ernte. Gießen, düngen.
 
-**Ausgeizen**: Tomaten ausgeizen.
+**September**: Kürbis: Ernte. Gurken: Ernte beenden.
 
----
+**Oktober**: Pflanzenreste entfernen, Kürbis Lagerung vorbereiten.
 
-# Juli
-## Ernte, Pflege
-**Ernte**: Ernte von Tomaten, Gurken, Zucchini, Paprika, Kräutern, Beerenobst.
+**November**: Keine Arbeiten.
 
-**Pflege**: Regelmäßig gießen, düngen, Unkraut entfernen.
+**Dezember**: Keine Arbeiten.
 
-**Aussaat**: Aussaat von Feldsalat, Spinat und Radieschen für die Herbsternten
+### <a name="1.4-wurzelgemüse"></a>1.4 Wurzelgemüse
 
-**Bewässerung**: Auf ausreichende Bewässerung achten, besonders bei Trockenheit.
+**Januar**: Lagergemüse (Karotten, Rote Bete, Sellerie) kontrollieren.
 
-**Schädlingsbekämpfung**: Schutz vor Schädlingen und Krankheiten (natürliche Mittel verwenden).
+**Februar**: Lagergemüse kontrollieren.
 
----
+**März**: Direktsaat von Karotten, Pastinaken (bei geeignetem Wetter).
 
-# August
-## Ernte, Vorbereitung auf den Herbst
-**Ernte**: Ernte von Tomaten, Gurken, Zucchini, Paprika, Kräutern, Obst.
+**April**: Direktsaat von Karotten, Radieschen, Rettich.
 
-**Pflege**: Regelmäßig gießen, düngen, Unkraut entfernen.
+**Mai**: Aussaat von Karotten, Radieschen, Rettich fortsetzen.
 
-**Aussaat**: Aussaat von Gründüngung auf abgeernteten Beeten.
+**Juni**: Vereinzeln, jäten, gießen.
 
-**Konservierung**: Gemüse und Obst einkochen, einlegen oder trocknen.
+**Juli**: Ernte von Radieschen, Rettich, frühen Karotten.
 
-**Kompostvorbereitung**: Komposthaufen für das nächste Jahr anlegen.
+**August**: Ernte von Karotten, Rote Bete.
 
----
+**September**: Ernte von Karotten, Rote Bete, Sellerie, Pastinaken.
 
-# September
-## Ernte, Vorbereitung auf den Winter
-**Ernte**: Ernte von Äpfeln, Birnen, Nüssen, Kürbissen, Kartoffeln.
+**Oktober**: Lagerung vorbereiten.
 
-**Beetvorbereitung**: Beete für den Winter vorbereiten (umgraben, düngen).
+**November**: Lagergemüse kontrollieren.
 
-**Pflanzung**: Herbstblüher pflanzen.
+**Dezember**: Lagergemüse kontrollieren.
 
-**Laubsammlung**: Laub sammeln und kompostieren.
+## 2. Kräuter
 
-**Einlagerung**: Gemüse einlagern (z.B. Kartoffeln, Kürbisse).
+### <a name="2.1-baerlauch"></a>2.1 Bärlauch
 
----
+**Januar**: Keine Arbeiten.
 
-# Oktober
-## Ernte, Rückschnitt, Winterschutz
-**Ernte**: Letzte Ernte von Gemüse und Obst.
+**Februar**: Bärlauch beginnt zu sprießen.
 
-**Rückschnitt**: Stauden zurückschneiden.
+**März**: Bärlauch ernten.
 
-**Winterschutz**: Empfindliche Pflanzen mit Vlies oder Reisig schützen.
+**April**: Bärlauchernte endet.
 
-**Beetabdeckung**: Beete mit Laub oder Reisig abdecken.
+**Mai**: Keine Arbeiten.
 
-**Teichvorbereitung**: Gartenteich winterfest machen.
+**Juni**: Keine Arbeiten.
 
-**Kompostierung**: Reifen Kompost auf die Beete ausbringen.
+**Juli**: Keine Arbeiten.
 
----
+**August**: Keine Arbeiten.
 
-# November
-## Winterschutz, Aufräumen, Planung
-**Winterschutz**: Winterschutzmaßnahmen überprüfen und ergänzen.
+**September**: Keine Arbeiten.
 
-**Gartenpflege**: Garten aufräumen, Werkzeuge reinigen und verstauen.
+**Oktober**: Keine Arbeiten.
 
-**Planung**: Beetpläne für das kommende Jahr erstellen.
+**November**: Keine Arbeiten.
 
-**Vogelfütterung**: Mit der Vogelfütterung beginnen.
+**Dezember**: Keine Arbeiten.
 
-**Bodenverbesserung**: Bei frostfreiem Wetter den Boden mit Kompost oder Mist verbessern.
+### <a name="2.2-waldmeister"></a>2.2 Waldmeister
 
----
+**Januar**: Keine Arbeiten.
 
-# Dezember
-## Ruhezeit, Planung, Vorbereitung
-**Vogelfütterung**: Regelmäßig Futter bereitstellen.
+**Februar**: Keine Arbeiten.
 
-**Planung**: Saatgutkataloge durchstöbern und Saatgut bestellen.
+**März**: Waldmeister beginnt zu wachsen.
 
-**Werkzeugpflege**: Gartenwerkzeuge reinigen und pflegen.
+**April**: Waldmeister ernten (vor der Blüte).
 
-**Innenraumpflege**: Zimmerpflanzen pflegen.
+**Mai**: Keine Arbeiten.
 
-**Kreativprojekte**: Basteln mit Naturmaterialien (z.B. Adventskränze, Dekorationen).
+**Juni**: Keine Arbeiten.
+
+**Juli**: Keine Arbeiten.
+
+**August**: Keine Arbeiten.
+
+**September**: Keine Arbeiten.
+
+**Oktober**: Keine Arbeiten.
+
+**November**: Keine Arbeiten.
+
+**Dezember**: Keine Arbeiten.
+
+### <a name="2.3-lavendel"></a>2.3 Lavendel
+
+**Januar**: Winterharte Kräuter (Lavendel) bei Bedarf vor starker Sonneneinstrahlung schützen.
+
+**Februar**: Keine Arbeiten.
+
+**März**: Keine Arbeiten.
+
+**April**: Kräuter vermehren (Stecklinge).
+
+**Mai**: Lavendel pflanzen oder aussäen.
+
+**Juni**: Kräuter ernten (für Frischverwendung oder Trocknung).
+
+**Juli**: Kräuter ernten, trocknen oder einfrieren.
+
+**August**: Kräuter ernten.
+
+**September**: Kräuter zurückschneiden.
+
+**Oktober**: Winterharte Kräuter schützen.
+
+**November**: Winterharte Kräuter schützen.
+
+**Dezember**: Winterharte Kräuter schützen.
+
+### <a name="2.4-salbei"></a>2.4 Salbei
+
+**Januar**: Winterharte Kräuter (Salbei) bei Bedarf vor starker Sonneneinstrahlung schützen.
+
+**Februar**: Keine Arbeiten.
+
+**März**: Keine Arbeiten.
+
+**April**: Kräuter vermehren (Stecklinge).
+
+**Mai**: Salbei pflanzen oder aussäen.
+
+**Juni**: Kräuter ernten (für Frischverwendung oder Trocknung).
+
+**Juli**: Kräuter ernten, trocknen oder einfrieren.
+
+**August**: Kräuter ernten.
+
+**September**: Kräuter zurückschneiden.
+
+**Oktober**: Winterharte Kräuter schützen.
+
+**November**: Winterharte Kräuter schützen.
+
+**Dezember**: Winterharte Kräuter schützen.
+
+### <a name="2.5-pfefferminze"></a>2.5 Pfefferminze
+
+**Januar**: Winterharte Kräuter (Pfefferminze) bei Bedarf vor starker Sonneneinstrahlung schützen.
+
+**Februar**: Keine Arbeiten.
+
+**März**: Keine Arbeiten.
+
+**April**: Kräuter vermehren (Stecklinge).
+
+**Mai**: Pfefferminze pflanzen oder aussäen.
+
+**Juni**: Kräuter ernten (für Frischverwendung oder Trocknung).
+
+**Juli**: Kräuter ernten, trocknen oder einfrieren.
+
+**August**: Kräuter ernten.
+
+**September**: Kräuter zurückschneiden.
+
+**Oktober**: Winterharte Kräuter schützen.
+
+**November**: Winterharte Kräuter schützen.
+
+**Dezember**: Winterharte Kräuter schützen.
+
+### <a name="2.6-melisse"></a>2.6 Melisse
+
+**Januar**: Winterharte Kräuter (Melisse) bei Bedarf vor starker Sonneneinstrahlung schützen.
+
+**Februar**: Keine Arbeiten.
+
+**März**: Keine Arbeiten.
+
+**April**: Kräuter vermehren (Stecklinge).
+
+**Mai**: Melisse pflanzen oder aussäen.
+
+**Juni**: Kräuter ernten (für Frischverwendung oder Trocknung).
+
+**Juli**: Kräuter ernten, trocknen oder einfrieren.
+
+**August**: Kräuter ernten.
+
+**September**: Kräuter zurückschneiden.
+
+**Oktober**: Winterharte Kräuter schützen.
+
+**November**: Winterharte Kräuter schützen.
+
+**Dezember**: Winterharte Kräuter schützen.
+
+### <a name="2.7-thymian"></a>2.7 Thymian
+
+**Januar**: Winterharte Kräuter (Thymian) bei Bedarf vor starker Sonneneinstrahlung schützen.
+
+**Februar**: Keine Arbeiten.
+
+**März**: Keine Arbeiten.
+
+**April**: Kräuter vermehren (Stecklinge).
+
+**Mai**: Thymian pflanzen oder aussäen.
+
+**Juni**: Kräuter ernten (für Frischverwendung oder Trocknung).
+
+**Juli**: Kräuter ernten, trocknen oder einfrieren.
+
+**August**: Kräuter ernten.
+
+**September**: Kräuter zurückschneiden.
+
+**Oktober**: Winterharte Kräuter schützen.
+
+**November**: Winterharte Kräuter schützen.
+
+**Dezember**: Winterharte Kräuter schützen.
+
+### <a name="2.8-muskatellersalbei"></a>2.8 Muskatellersalbei
+
+**Januar**: Keine Arbeiten.
+
+**Februar**: Keine Arbeiten.
+
+**März**: Keine Arbeiten.
+
+**April**: Kräuter vermehren (Stecklinge).
+
+**Mai**: Muskatellersalbei pflanzen oder aussäen.
+
+**Juni**: Kräuter ernten (für Frischverwendung oder Trocknung).
+
+**Juli**: Kräuter ernten, trocknen oder einfrieren.
+
+**August**: Kräuter ernten.
+
+**September**: Kräuter zurückschneiden.
+
+**Oktober**: Winterharte Kräuter schützen.
+
+**November**: Winterharte Kräuter schützen.
+
+**Dezember**: Winterharte Kräuter schützen.
+
+### <a name="2.9-colakraut"></a>2.9 Colakraut
+
+**Januar**: Keine Arbeiten.
+
+**Februar**: Keine Arbeiten.
+
+**März**: Austrieb.
+
+**April**: Austrieb.
+
+**Mai**: Wachstum.
+
+**Juni**: Ernten (sparsam).
+
+**Juli**: Ernten (sparsam).
+
+**August**: Ernten (sparsam).
+
+**September**: Rückschnitt.
+
+**Oktober**: Winterhart.
+
+**November**: Winterhart.
+
+**Dezember**: Winterhart.
+
+## 3. Wildkräuter & Blätter
+
+### <a name="3.1-himbeer--und-brombeerblaetter"></a>3.1 Himbeer- und Brombeerblätter
+
+**Januar**: Keine Arbeiten.
+
+**Februar**: Keine Arbeiten.
+
+**März**: Keine Arbeiten.
+
+**April**: Keine Arbeiten.
+
+**Mai**: Blätter beginnen auszutreiben.
+
+**Juni**: Himbeer- und Brombeerblätter ernten (junge Blätter).
+
+**Juli**: Himbeer- und Brombeerblätter ernten.
+
+**August**: Himbeer- und Brombeerblätter ernten.
+
+**September**: Ernte der Blätter einstellen.
+
+**Oktober**: Keine Arbeiten.
+
+**November**: Keine Arbeiten.
+
+**Dezember**: Keine Arbeiten.
+
+### <a name="3.2-rotklee"></a>3.2 Rotklee
+
+**Januar**: Keine Arbeiten.
+
+**Februar**: Keine Arbeiten.
+
+**März**: Keine Arbeiten.
+
+**April**: Aussaat möglich.
+
+**Mai**: Blütezeit beginnt.
+
+**Juni**: Rotklee Blütezeit.
+
+**Juli**: Rotklee ernten (Blüten).
+
+**August**: Rotklee ernten (Blüten).
+
+**September**: Rückschnitt nach der Blüte.
+
+**Oktober**: Keine Arbeiten.
+
+**November**: Keine Arbeiten.
+
+**Dezember**: Keine Arbeiten.
+
+### <a name="3.3-gaensebluemchen"></a>3.3 Gänseblümchen
+
+**Januar**: Keine Arbeiten.
+
+**Februar**: Keine Arbeiten.
+
+**März**: Blätter und Blüten können geerntet werden.
+
+**April**: Blätter und Blüten können geerntet werden.
+
+**Mai**: Blätter und Blüten können geerntet werden.
+
+**Juni**: Blätter und Blüten können geerntet werden.
+
+**Juli**: Blätter und Blüten können geerntet werden.
+
+**August**: Blätter und Blüten können geerntet werden.
+
+**September**: Blätter und Blüten können geerntet werden.
+
+**Oktober**: Blätter und Blüten können geerntet werden.
+
+**November**: Keine Arbeiten.
+
+**Dezember**: Keine Arbeiten.
+
+### <a name="3.4-spitzwegerich"></a>3.4 Spitzwegerich
+
+**Januar**: Keine Arbeiten.
+
+**Februar**: Keine Arbeiten.
+
+**März**: Junge Blätter können geerntet werden.
+
+**April**: Blätter ernten.
+
+**Mai**: Blätter ernten.
+
+**Juni**: Blätter ernten.
+
+**Juli**: Blätter ernten.
+
+**August**: Blätter ernten.
+
+**September**: Blätter ernten.
+
+**Oktober**: Keine Arbeiten.
+
+**November**: Keine Arbeiten.
+
+**Dezember**: Keine Arbeiten.
+
+### <a name="3.5-loewenzahnblaetter"></a>3.5 Löwenzahnblätter
+
+**Januar**: Keine Arbeiten.
+
+**Februar**: Rosetten bilden sich.
+
+**März**: Junge Blätter ernten (vor der Blüte).
+
+**April**: Blätter ernten.
+
+**Mai**: Blätter ernten.
+
+**Juni**: Blätter werden bitterer.
+
+**Juli**: Blätter können noch vereinzelt geerntet werden.
+
+**August**: Keine Arbeiten.
+
+**September**: Neue Blätter sprießen.
+
+**Oktober**: Blätter ernten.
+
+**November**: Keine Arbeiten.
+
+**Dezember**: Keine Arbeiten.
+
+### <a name="3.6-veilchen"></a>3.6 Veilchen
+
+**Januar**: Keine Arbeiten.
+
+**Februar**: Erste Blüten zeigen sich.
+
+**März**: Blüten und Blätter ernten.
+
+**April**: Blüten und Blätter ernten.
+
+**Mai**: Blüten und Blätter ernten.
+
+**Juni**: Erntezeit endet.
+
+**Juli**: Keine Arbeiten.
+
+**August**: Keine Arbeiten.
+
+**September**: Keine Arbeiten.
+
+**Oktober**: Keine Arbeiten.
+
+**November**: Keine Arbeiten.
+
+**Dezember**: Keine Arbeiten.
+
+## 4. Obst & Beeren
+
+### <a name="4.1-holler-blueten-und-beeren"></a>4.1 Holler (Blüten und Beeren)
+
+**Januar**: Keine Arbeiten.
+
+**Februar**: Keine Arbeiten.
+
+**März**: Keine Arbeiten.
+
+**April**: Holler beginnt zu blühen (je nach Witterung).
+
+**Mai**: Hollerblüten ernten (je nach Region).
+
+**Juni**: Hollerblüten ernten (Ende der Saison).
+
+**Juli**: Keine Arbeiten.
+
+**August**: Hollerbeeren reifen.
+
+**September**: Hollerbeeren ernten.
+
+**Oktober**: Keine Arbeiten.
+
+**November**: Keine Arbeiten.
+
+**Dezember**: Keine Arbeiten.
+
+### <a name="4.2-dirndl"></a>4.2 Dirndl
+
+**Januar**: Keine Arbeiten.
+
+**Februar**: Keine Arbeiten.
+
+**März**: Keine Arbeiten.
+
+**April**: Dirndl Blütezeit beginnt.
+
+**Mai**: Dirndl Blütezeit.
+
+**Juni**: Dirndl Reifezeit beginnt.
+
+**Juli**: Dirndl Erntezeit (Hauptsaison).
+
+**August**: Dirndl Erntezeit endet.
+
+**September**: Keine Arbeiten.
+
+**Oktober**: Keine Arbeiten.
+
+**November**: Keine Arbeiten.
+
+**Dezember**: Keine Arbeiten.
+
+## 5. Zierpflanzen & Rosen
+
+### <a name="5.1-rosenschnitt-und--verarbeitung"></a>5.1 Rosenschnitt und -verarbeitung
+
+**Januar**: Keine Arbeiten.
+
+**Februar**: Noch nicht schneiden.
+
+**März**: Noch nicht schneiden.
+
+**April**: Jetzt ist die Zeit für den Hauptschnitt (siehe Details unten).
+
+**Mai**: Verblühtes entfernen. Rosen Erste Rosenblüten.
+
+**Juni**: Verblühtes regelmäßig entfernen. Rosen Rosenblüten ernten.
+
+**Juli**: Verblühtes regelmäßig entfernen. Rosen Rosenblüten ernten.
+
+**August**: Verblühtes regelmäßig entfernen. Rosen Rosenblüten ernten.
+
+**September**: Leichter Rückschnitt (Formgebung).
+
+**Oktober**: Keine Arbeiten.
+
+**November**: Keine Arbeiten.
+
+**Dezember**: Keine Arbeiten.
+
+#### Rosenschnitt Detail:
+
+**Hauptschnitt (April)**:
+    Entferne alle toten, kranken oder beschädigten Triebe.
+    Schneide schwache Triebe auf 3-5 Augen zurück.
+    Starke Triebe auf 5-7 Augen zurückschneiden.
+    Achte auf eine "offene" Vasenform, um eine gute Belüftung zu gewährleisten.
+    Schneide immer schräg, ca. 5 mm oberhalb eines Auges, das nach außen zeigt.
+
+**Sommerschnitt (Juni - August)**:
+    Verblühtes regelmäßig entfernen, um die Bildung neuer Blüten zu fördern.
+    Schneide den Stiel bis zum nächsten voll entwickelten Blatt mit fünf Blättchen zurück.
+
+**Herbstschnitt (September)**:
+    Leichter Formgebungsschnitt.
+    Entferne lange, überhängende Triebe.
+    Schneide nicht zu stark, um die Winterhärte nicht zu beeinträchtigen.
+
+### <a name="5.2-flieder"></a>5.2 Flieder
+
+**Januar**: Keine Arbeiten.
+
+**Februar**: Keine Arbeiten.
+
+**März**: Keine Arbeiten.
+
+**April**: Flieder beginnt zu blühen.
+
+**Mai**: Fliederblüten ernten (für Sirup, etc.).
+
+**Juni**: Verblühtes entfernen.
+
+**Juli**: Keine Arbeiten.
+
+**August**: Keine Arbeiten.
+
+**September**: Keine Arbeiten.
+
+**Oktober**: Keine Arbeiten.
+
+**November**: Keine Arbeiten.
+
+**Dezember**: Keine Arbeiten.
+
+## 6. Allgemeines
+
+### <a name="6.1-duengen"></a>6.1 Düngen
+
+**Januar**: Keine Düngung.
+
+**Februar**: Keine Düngung.
+
+**März**: Keine Düngung.
+
+**April**: Kompost auf Gemüsebeete ausbringen.
+
+**Mai**: Tomaten, Chilis, Gurken nach dem Auspflanzen düngen (organischer Dünger).
+
+**Juni**: Starkzehrer (Tomaten, Kürbis, Gurken) nachdüngen.
+
+**Juli**: Weiterhin Starkzehrer (Tomaten, Kürbis, Gurken) nachdüngen.
+
+**August**: Keine Düngung mehr (Vorbereitung auf den Winter).
+
+**September**: Keine Düngung.
+
+**Oktober**: Keine Düngung.
+
+**November**: Keine Düngung.
+
+**Dezember**: Keine Düngung.
