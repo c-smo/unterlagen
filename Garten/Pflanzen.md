@@ -29,8 +29,9 @@
 4.  **Obst & Beeren**
     *   [4.1 Holler (Blüten und Beeren)](#4.1-holler-blueten-und-beeren)
     *   [4.2 Dirndl](#4.2-dirndl)
-    *   [5.  **Zierpflanzen & Rosen**
-    *   [5.1 Flieder](#5.2-flieder)
+5.  **Zierpflanzen & Rosen**
+    *   [5.1 Flieder](#5.1-flieder)
+    *   [5.2 Rosen](#5.2-rosen)
 
 ---
 
@@ -40,27 +41,27 @@
 
 ### <a name="1.1-tomaten"></a>1.1 Tomaten
 
-**Januar**: -
+**Januar**: Anzuchtplanung, Saatgut bestellen.
 
-**Februar**: Anzucht beginnen.
+**Februar**: Anzucht im Haus beginnen (Warme Sorten).
 
-**März**: Pikieren der Tomatenpflanzen.
+**März**: Pikieren der Tomatenpflanzen in größere Töpfe. Anzucht von frühen Sorten beginnen.
 
-**April**: Tomaten abhärten.
+**April**: Tomatenpflanzen abhärten (tagsüber rausstellen).
 
-**Mai**: Nach den Eisheiligen auspflanzen. Stützen anbringen.
+**Mai**: Nach den Eisheiligen auspflanzen ins Freiland oder Gewächshaus. Stützen anbringen.
 
-**Juni**: Ausgeizen, hochbinden, regelmäßig gießen.
+**Juni**: Ausgeizen, hochbinden oder an Stäben fixieren, regelmäßig gießen und düngen (Tomatendünger). Mulchen.
 
-**Juli**: Ernte beginnt. Weiterhin ausgeizen, gießen, düngen.
+**Juli**: Ernte beginnt (frühe Sorten). Weiterhin ausgeizen, gießen, düngen. Auf Kraut- und Braunfäule achten und ggf. Maßnahmen ergreifen.
 
-**August**: Ernte. Weiterhin ausgeizen, gießen, düngen.
+**August**: Haupt Erntezeit. Weiterhin ausgeizen, gießen, düngen. Bei Bedarf Schädlinge kontrollieren (z.B. Weiße Fliege).
 
-**September**: Ernte. Grüne Tomaten ausreifen lassen.
+**September**: Ernte. Grüne Tomaten für Nachreife ernten und einlagern. Weniger gießen und düngen, um Ausreifung zu fördern.
 
-**Oktober**: Pflanzenreste entfernen.
+**Oktober**: Pflanzenreste entfernen und kompostieren. Boden für nächste Saison vorbereiten. Gewächshaus reinigen.
 
-**November**: -
+**November**: Boden im Gewächshaus verbessern (Kompost einarbeiten).  -
 
 **Dezember**: -
 
@@ -68,25 +69,25 @@
 
 ### <a name="1.2-chilis"></a>1.2 Chilis
 
-**Januar**: -
+**Januar**: Anzuchtplanung, Saatgut bestellen, Sorten auswählen (Schärfegrade beachten).
 
-**Februar**: Anzucht beginnen.
+**Februar**: Anzucht im Haus beginnen (lange Keimdauer beachten). Wärmematte kann hilfreich sein.
 
-**März**: Pikieren der Chilipflanzen.
+**März**: Pikieren der Chilipflanzen in größere Töpfe. Weiterhin warm und hell aufstellen.
 
-**April**: Chilis abhärten.
+**April**: Chilis abhärten (langsam an die Außentemperaturen gewöhnen).
 
-**Mai**: Nach den Eisheiligen auspflanzen.
+**Mai**: Nach den Eisheiligen auspflanzen ins Freiland, Gewächshaus oder Kübel.  Sonnigen, warmen Standort wählen.
 
-**Juni**: Gießen, düngen.
+**Juni**: Regelmäßig gießen und düngen (Gemüse- oder Chilidünger).  Mulchen.
 
-**Juli**: Ernte beginnt (frühe Sorten). Gießen, düngen.
+**Juli**: Ernte beginnt (frühe Sorten). Gießen, düngen. Auf Schädlinge wie Blattläuse achten.
 
-**August**: Ernte. Gießen, düngen.
+**August**: Haupt Erntezeit. Gießen, düngen.  Chilis regelmäßig ernten, fördert die weitere Fruchtbildung.
 
-**September**: Ernte.
+**September**: Ernte.  Pflanzen ins Haus holen, wenn Frostgefahr droht (für Nachreife).
 
-**Oktober**: Pflanzenreste entfernen.
+**Oktober**: Pflanzenreste entfernen und kompostieren.  Letzte grüne Früchte nachreifen lassen.
 
 **November**: -
 
@@ -96,57 +97,57 @@
 
 ### <a name="1.3-kürbisgurken"></a>1.3 Kürbis/Gurken
 
-**Januar**: -
+**Januar**: Anbauplanung, Sortenwahl (Rankverhalten, Größe beachten), Saatgut bestellen.
 
 **Februar**: -
 
-**März**: Vorkultur starten (späte Aussaat).
+**März**: Vorkultur starten (späte Aussaat im Haus).  Gurken etwas früher als Kürbis.
 
-**April**: Vorkultur fortsetzen.
+**April**: Vorkultur fortsetzen.  Pflanzen hell und warm stellen.
 
-**Mai**: Nach den Eisheiligen auspflanzen.
+**Mai**: Nach den Eisheiligen auspflanzen ins Freiland oder Gewächshaus.  Rankhilfe anbieten (für Gurken). Kürbisse brauchen viel Platz.
 
-**Juni**: Gießen, düngen.
+**Juni**: Regelmäßig gießen und düngen (Gemüse- oder Kürbisdünger).  Boden feucht halten, besonders während der Fruchtbildung. Mulchen.
 
-**Juli**: Ernte beginnt. Gießen, düngen.
+**Juli**: Ernte beginnt (Gurken). Gießen, düngen.  Gurken regelmäßig ernten. Kürbispflanzen weiterwachsen lassen.
 
-**August**: Ernte. Gießen, düngen.
+**August**: Ernte (Gurken und erste Kürbisse). Gießen, düngen.  Bei Kürbissen Kontakt zum Boden vermeiden (z.B. Holzbrett unterlegen).
 
-**September**: Kürbis: Ernte. Gurken: Ernte beenden.
+**September**: Kürbis: Ernte (vor dem ersten Frost). Gurken: Ernte beenden.  Kürbisse mit Stielansatz ernten.
 
-**Oktober**: Pflanzenreste entfernen, Kürbis Lagerung vorbereiten.
+**Oktober**: Pflanzenreste entfernen, kompostieren. Kürbis Lagerung vorbereiten (trocken, kühl, luftig). Gurkenanbau für Saison abschließen.
 
-**November**: -
+**November**: Kürbisse auf Lagerfähigkeit kontrollieren. -
 
-**Dezember**: -
+**Dezember**: Kürbisse bei Bedarf verarbeiten oder weiter lagern. -
 
 ---
 
 ### <a name="1.4-wurzelgemüse"></a>1.4 Wurzelgemüse
 
-**Januar**: Lagergemüse (Karotten, Rote Bete, Sellerie) kontrollieren.
+**Januar**: Lagergemüse (Karotten, Rote Bete, Sellerie) kontrollieren (auf Fäulnis, Schimmel).
 
-**Februar**: Lagergemüse kontrollieren.
+**Februar**: Lagergemüse kontrollieren.  Bei Bedarf umpacken oder aussortieren.
 
-**März**: Direktsaat von Karotten, Pastinaken (bei geeignetem Wetter).
+**März**: Direktsaat von Karotten, Pastinaken (bei geeignetem Wetter, Bodentemperatur beachten).  Boden vorbereiten, tiefgründig lockern.
 
-**April**: Direktsaat von Karotten, Radieschen, Rettich.
+**April**: Direktsaat von Karotten, Radieschen, Rettich.  Mischkultur beachten (z.B. Radieschen zwischen Karotten).
 
-**Mai**: Aussaat von Karotten, Radieschen, Rettich fortsetzen.
+**Mai**: Aussaat von Karotten, Radieschen, Rettich fortsetzen (gestaffelte Aussaat für kontinuierliche Ernte).  Beet feucht halten.
 
-**Juni**: Vereinzeln, jäten, gießen.
+**Juni**: Vereinzeln (bei Karotten wichtig für Wurzelausbildung), jäten, gießen.  Boden lockern.
 
-**Juli**: Ernte von Radieschen, Rettich, frühen Karotten.
+**Juli**: Ernte von Radieschen, Rettich, frühen Karotten.  Sommerrettich ernten, bevor er holzig wird.
 
-**August**: Ernte von Karotten, Rote Bete.
+**August**: Ernte von Karotten, Rote Bete (für Lagerung).  Herbst- und Winterrettich aussäen.
 
-**September**: Ernte von Karotten, Rote Bete, Sellerie, Pastinaken.
+**September**: Ernte von Karotten, Rote Bete, Sellerie, Pastinaken (Haupt Erntezeit für Lagergemüse).  Vor dem ersten Frost ernten.
 
-**Oktober**: Lagerung vorbereiten.
+**Oktober**: Lagerung vorbereiten (kühle, dunkle, luftige Lagerung).  Gemüse putzen, aber nicht waschen vor Lagerung.
 
-**November**: Lagergemüse kontrollieren.
+**November**: Lagergemüse kontrollieren.  -
 
-**Dezember**: Lagergemüse kontrollieren.
+**Dezember**: Lagergemüse kontrollieren.  Bei Bedarf verarbeiten oder umräumen.
 
 ---
 
@@ -158,11 +159,11 @@
 
 **Januar**: -
 
-**Februar**: Bärlauch beginnt zu sprießen.
+**Februar**: Bärlauch beginnt zu sprießen (Boden beobachten).
 
-**März**: Bärlauch ernten.
+**März**: Bärlauch ernten (vor der Blüte, beste Zeit).  Blätter für Pesto, Suppen etc. verwenden.
 
-**April**: Bärlauchernte endet.
+**April**: Bärlauchernte endet (Blüte beginnt, Blätter werden bitterer).  Samenbildung beobachten für Selbstaussaat.
 
 **Mai**: -
 
@@ -188,9 +189,9 @@
 
 **Februar**: -
 
-**März**: Waldmeister beginnt zu wachsen.
+**März**: Waldmeister beginnt zu wachsen.  Boden leicht feucht halten.
 
-**April**: Waldmeister ernten (vor der Blüte).
+**April**: Waldmeister ernten (vor der Blüte, aromatischer).  Für Maiwein, Tee etc. verwenden.  Anwelken lassen erhöht Aroma.
 
 **Mai**: -
 
@@ -216,19 +217,19 @@
 
 **Februar**: -
 
-**März**: -
+**März**: Rückschnitt im Frühjahr (falls im Herbst nicht geschehen, aber nicht zu spät, vor dem neuen Austrieb).
 
-**April**: Kräuter vermehren (Stecklinge).
+**April**: Kräuter vermehren (Stecklinge schneiden und bewurzeln).  Boden vorbereiten für Pflanzung.
 
-**Mai**: Lavendel pflanzen oder aussäen.
+**Mai**: Lavendel pflanzen oder aussäen (Jungpflanzen oder Direktsaat).  Sonnigen Standort wählen, durchlässiger Boden.
 
-**Juni**: Kräuter ernten (für Frischverwendung oder Trocknung).
+**Juni**: Kräuter ernten (für Frischverwendung oder Trocknung, erste Blüten öffnen sich).  Blütenstände bündeln und aufhängen zum Trocknen.
 
-**Juli**: Kräuter ernten, trocknen oder einfrieren.
+**Juli**: Kräuter ernten, trocknen oder einfrieren.  Hauptblütezeit.
 
-**August**: Kräuter ernten.
+**August**: Kräuter ernten.  Zweite Blüte möglich bei Rückschnitt nach erster Blüte.
 
-**September**: Kräuter zurückschneiden.
+**September**: Kräuter zurückschneiden (nach der Blüte, für kompakten Wuchs und Blütenbildung im nächsten Jahr).
 
 **Oktober**: -
 
@@ -244,19 +245,19 @@
 
 **Februar**: -
 
-**März**: -
+**März**: Rückschnitt im Frühjahr (kräftiger Rückschnitt ins alte Holz möglich).
 
-**April**: Kräuter vermehren (Stecklinge).
+**April**: Kräuter vermehren (Stecklinge oder Teilung).  Boden vorbereiten.
 
-**Mai**: Salbei pflanzen oder aussäen.
+**Mai**: Salbei pflanzen oder aussäen.  Sonniger Standort, trockener Boden bevorzugt.
 
-**Juni**: Kräuter ernten (für Frischverwendung oder Trocknung).
+**Juni**: Kräuter ernten (für Frischverwendung oder Trocknung, vor der Blüte aromatischer).
 
-**Juli**: Kräuter ernten, trocknen oder einfrieren.
+**Juli**: Kräuter ernten, trocknen oder einfrieren.  Blütezeit beginnt.
 
-**August**: Kräuter ernten.
+**August**: Kräuter ernten.  Rückschnitt nach der Blüte möglich für zweite Ernte.
 
-**September**: Kräuter zurückschneiden.
+**September**: Kräuter zurückschneiden (leichter Formschnitt nach der Blüte).
 
 **Oktober**: -
 
@@ -272,19 +273,19 @@
 
 **Februar**: -
 
-**März**: -
+**März**: Austrieb beobachten.  Bei Bedarf Beet von Unkraut befreien.
 
-**April**: Kräuter vermehren (Stecklinge).
+**April**: Kräuter vermehren (Stecklinge, Teilung oder Wurzelausläufer).  Pflanzung im Topf oder Beet (Ausläuferbildung beachten, Wurzelsperre sinnvoll).
 
-**Mai**: Pfefferminze pflanzen oder aussäen.
+**Mai**: Pfefferminze pflanzen oder aussäen.  Halbschattiger bis sonniger Standort, feuchter Boden.
 
-**Juni**: Kräuter ernten (für Frischverwendung oder Trocknung).
+**Juni**: Kräuter ernten (für Frischverwendung oder Trocknung, vor der Blüte aromatischer).  Regelmäßiges Ernten fördert buschigen Wuchs.
 
-**Juli**: Kräuter ernten, trocknen oder einfrieren.
+**Juli**: Kräuter ernten, trocknen oder einfrieren.  Blütezeit beginnt.
 
-**August**: Kräuter ernten.
+**August**: Kräuter ernten.  Rückschnitt nach der Blüte für zweite Ernte.
 
-**September**: Kräuter zurückschneiden.
+**September**: Kräuter zurückschneiden (vor dem Winter, bodennah).
 
 **Oktober**: -
 
@@ -300,19 +301,19 @@
 
 **Februar**: -
 
-**März**: -
+**März**: Austrieb beobachten.  Bei Bedarf Beet säubern.
 
-**April**: Kräuter vermehren (Stecklinge).
+**April**: Kräuter vermehren (Stecklinge, Teilung, Aussaat).  Pflanzung im Beet oder Topf.
 
-**Mai**: Melisse pflanzen oder aussäen.
+**Mai**: Melisse pflanzen oder aussäen.  Halbschattiger Standort bevorzugt, feuchter Boden.
 
-**Juni**: Kräuter ernten (für Frischverwendung oder Trocknung).
+**Juni**: Kräuter ernten (für Frischverwendung oder Trocknung, vor der Blüte aromatischer).  Regelmäßiges Ernten verhindert Selbstaussaat.
 
-**Juli**: Kräuter ernten, trocknen oder einfrieren.
+**Juli**: Kräuter ernten, trocknen oder einfrieren.  Blütezeit beginnt.
 
-**August**: Kräuter ernten.
+**August**: Kräuter ernten.  Rückschnitt nach der Blüte für zweite Ernte.
 
-**September**: Kräuter zurückschneiden.
+**September**: Kräuter zurückschneiden (vor dem Winter, bodennah).
 
 **Oktober**: -
 
@@ -328,19 +329,19 @@
 
 **Februar**: -
 
-**März**: -
+**März**: Leichter Rückschnitt im Frühjahr (Verdorrtes entfernen, Formschnitt).
 
-**April**: Kräuter vermehren (Stecklinge).
+**April**: Kräuter vermehren (Stecklinge, Teilung, Aussaat).  Pflanzung im Beet oder Topf.
 
-**Mai**: Thymian pflanzen oder aussäen.
+**Mai**: Thymian pflanzen oder aussäen.  Sonniger Standort, trockener, durchlässiger Boden.
 
-**Juni**: Kräuter ernten (für Frischverwendung oder Trocknung).
+**Juni**: Kräuter ernten (für Frischverwendung oder Trocknung, vor der Blüte aromatischer).  Vor der Blütezeit ernten für bestes Aroma.
 
-**Juli**: Kräuter ernten, trocknen oder einfrieren.
+**Juli**: Kräuter ernten, trocknen oder einfrieren.  Blütezeit beginnt.
 
-**August**: Kräuter ernten.
+**August**: Kräuter ernten.  Rückschnitt nach der Blüte für kompakten Wuchs.
 
-**September**: Kräuter zurückschneiden.
+**September**: Kräuter zurückschneiden (Formschnitt, Verholzung verhindern).
 
 **Oktober**: -
 
@@ -358,17 +359,17 @@
 
 **März**: -
 
-**April**: Kräuter vermehren (Stecklinge).
+**April**: Kräuter vermehren (Stecklinge, Aussaat).  Vorziehen im Haus möglich.
 
-**Mai**: Muskatellersalbei pflanzen oder aussäen.
+**Mai**: Muskatellersalbei pflanzen oder aussäen.  Sonniger Standort, durchlässiger Boden.
 
-**Juni**: Kräuter ernten (für Frischverwendung oder Trocknung).
+**Juni**: Kräuter ernten (für Frischverwendung oder Trocknung, Blätter vor der Blüte).
 
-**Juli**: Kräuter ernten, trocknen oder einfrieren.
+**Juli**: Kräuter ernten, trocknen oder einfrieren.  Blütezeit, auffällige Blütenstände.
 
-**August**: Kräuter ernten.
+**August**: Kräuter ernten.  Selbstaussaat verhindern, wenn nicht gewünscht.
 
-**September**: Kräuter zurückschneiden.
+**September**: Kräuter zurückschneiden (nach der Blüte, Rückschnitt bis zum Boden möglich, ist aber zweijährig und blüht evtl. nicht erneut stark).
 
 **Oktober**: -
 
@@ -384,25 +385,25 @@
 
 **Februar**: -
 
-**März**: Austrieb.
+**März**: Austrieb.  Boden lockern.
 
-**April**: Austrieb.
+**April**: Austrieb.  Bei Bedarf düngen (Kräuterdünger).
 
-**Mai**: Wachstum.
+**Mai**: Wachstum.  Regelmäßig gießen, aber Staunässe vermeiden.
 
-**Juni**: Ernten (sparsam).
+**Juni**: Ernten (sparsam, junge Triebe).  Für Tee, Erfrischungsgetränke.
 
-**Juli**: Ernten (sparsam).
+**Juli**: Ernten (sparsam).  Regelmäßiges Ernten hält die Pflanze kompakt.
 
-**August**: Ernten (sparsam).
+**August**: Ernten (sparsam).  Aroma ist im Sommer am intensivsten.
 
-**September**: Rückschnitt.
+**September**: Rückschnitt (kräftiger Rückschnitt im Herbst möglich, verholzte Triebe entfernen).
 
-**Oktober**: Winterhart.
+**Oktober**: Winterhart.  -
 
-**November**: Winterhart.
+**November**: Winterhart.  -
 
-**Dezember**: Winterhart.
+**Dezember**: Winterhart.  -
 
 ---
 
@@ -420,15 +421,15 @@
 
 **April**: -
 
-**Mai**: Blätter beginnen auszutreiben.
+**Mai**: Blätter beginnen auszutreiben.  Junge Triebe beobachten.
 
-**Juni**: Himbeer- und Brombeerblätter ernten (junge Blätter).
+**Juni**: Himbeer- und Brombeerblätter ernten (junge Blätter, zarte Blätter bevorzugen).  Für Tee verwenden.
 
-**Juli**: Himbeer- und Brombeerblätter ernten.
+**Juli**: Himbeer- und Brombeerblätter ernten.  Vormittags ernten, wenn der Tau abgetrocknet ist.
 
-**August**: Himbeer- und Brombeerblätter ernten.
+**August**: Himbeer- und Brombeerblätter ernten.  Blätter trocknen für Wintervorrat.
 
-**September**: Ernte der Blätter einstellen.
+**September**: Ernte der Blätter einstellen (Konzentration an Inhaltsstoffen ändert sich).
 
 **Oktober**: -
 
@@ -446,17 +447,17 @@
 
 **März**: -
 
-**April**: Aussaat möglich.
+**April**: Aussaat möglich (Direktsaat ins Freiland).  Boden vorbereiten, lockern.
 
-**Mai**: Blütezeit beginnt.
+**Mai**: Blütezeit beginnt.  Erste Blütenknospen zeigen sich.
 
-**Juni**: Rotklee Blütezeit.
+**Juni**: Rotklee Blütezeit.  Bienenweide.
 
-**Juli**: Rotklee ernten (Blüten).
+**Juli**: Rotklee ernten (Blüten, während der Blüte).  Für Tee, Salate, Dekoration.
 
-**August**: Rotklee ernten (Blüten).
+**August**: Rotklee ernten (Blüten).  Blüten trocknen für Tee.
 
-**September**: Rückschnitt nach der Blüte.
+**September**: Rückschnitt nach der Blüte (fördert Neuaustrieb und evtl. zweite Blüte).
 
 **Oktober**: -
 
@@ -472,21 +473,21 @@
 
 **Februar**: -
 
-**März**: Blätter und Blüten können geerntet werden.
+**März**: Blätter und Blüten können geerntet werden (ganzjährig möglich, aber Frühjahr und Sommer Hauptsaison).  Junge Blätter und Knospen sind zarter.
 
-**April**: Blätter und Blüten können geerntet werden.
+**April**: Blätter und Blüten können geerntet werden.  Für Salate, Suppen, Dekoration.
 
-**Mai**: Blätter und Blüten können geerntet werden.
+**Mai**: Blätter und Blüten können geerntet werden.  Hoher Vitamin C Gehalt.
 
-**Juni**: Blätter und Blüten können geerntet werden.
+**Juni**: Blätter und Blüten können geerntet werden.  Regelmäßiges Pflücken fördert Blütenbildung.
 
-**Juli**: Blätter und Blüten können geerntet werden.
+**Juli**: Blätter und Blüten können geerntet werden.  -
 
-**August**: Blätter und Blüten können geerntet werden.
+**August**: Blätter und Blüten können geerntet werden.  -
 
-**September**: Blätter und Blüten können geerntet werden.
+**September**: Blätter und Blüten können geerntet werden.  -
 
-**Oktober**: Blätter und Blüten können geerntet werden.
+**Oktober**: Blätter und Blüten können geerntet werden.  -
 
 **November**: -
 
@@ -500,19 +501,19 @@
 
 **Februar**: -
 
-**März**: Junge Blätter können geerntet werden.
+**März**: Junge Blätter können geerntet werden (Frühjahrsaustrieb).
 
-**April**: Blätter ernten.
+**April**: Blätter ernten (junge Blätter bevorzugen, zarter).  Für Salben, Tee, Umschläge.
 
-**Mai**: Blätter ernten.
+**Mai**: Blätter ernten.  Heilpflanze bei Husten und Insektenstichen.
 
-**Juni**: Blätter ernten.
+**Juni**: Blätter ernten.  Blütezeit beginnt.
 
-**Juli**: Blätter ernten.
+**Juli**: Blätter ernten.  -
 
-**August**: Blätter ernten.
+**August**: Blätter ernten.  -
 
-**September**: Blätter ernten.
+**September**: Blätter ernten.  -
 
 **Oktober**: -
 
@@ -526,23 +527,23 @@
 
 **Januar**: -
 
-**Februar**: Rosetten bilden sich.
+**Februar**: Rosetten bilden sich.  Erste Blätter sprießen.
 
-**März**: Junge Blätter ernten (vor der Blüte).
+**März**: Junge Blätter ernten (vor der Blüte, weniger bitter).  Frühjahrsernte für Salat.
 
-**April**: Blätter ernten.
+**April**: Blätter ernten.  -
 
-**Mai**: Blätter ernten.
+**Mai**: Blätter ernten.  -
 
-**Juni**: Blätter werden bitterer.
+**Juni**: Blätter werden bitterer (Blütezeit, Bitterstoffe nehmen zu).  Eher für Smoothies oder gekocht verwenden.
 
-**Juli**: Blätter können noch vereinzelt geerntet werden.
+**Juli**: Blätter können noch vereinzelt geerntet werden (eher ältere, größere Blätter).
 
 **August**: -
 
-**September**: Neue Blätter sprießen.
+**September**: Neue Blätter sprießen (zweiter Austrieb im Herbst).  Herbsternte für Salat, weniger bitter als Sommerblätter.
 
-**Oktober**: Blätter ernten.
+**Oktober**: Blätter ernten.  -
 
 **November**: -
 
@@ -554,15 +555,15 @@
 
 **Januar**: -
 
-**Februar**: Erste Blüten zeigen sich.
+**Februar**: Erste Blüten zeigen sich (Duftveilchen).
 
-**März**: Blüten und Blätter ernten.
+**März**: Blüten und Blätter ernten (Blütezeit, intensiver Duft).  Für Dekoration, Salate, Sirup, Tee.
 
-**April**: Blüten und Blätter ernten.
+**April**: Blüten und Blätter ernten.  -
 
-**Mai**: Blüten und Blätter ernten.
+**Mai**: Blüten und Blätter ernten.  -
 
-**Juni**: Erntezeit endet.
+**Juni**: Erntezeit endet (weniger Blüten, Blätter werden größer).
 
 **Juli**: -
 
@@ -590,17 +591,17 @@
 
 **März**: -
 
-**April**: Holler beginnt zu blühen (je nach Witterung).
+**April**: Holler beginnt zu blühen (je nach Witterung, Frühblüher).  Erste Blütenstände zeigen sich.
 
-**Mai**: Hollerblüten ernten (je nach Region).
+**Mai**: Hollerblüten ernten (je nach Region, Hauptblütezeit).  Für Hollerküchle, Sirup, Tee.
 
-**Juni**: Hollerblüten ernten (Ende der Saison).
+**Juni**: Hollerblüten ernten (Ende der Saison, Blüten langsam verblühen).  -
 
 **Juli**: -
 
-**August**: Hollerbeeren reifen.
+**August**: Hollerbeeren reifen (schwarze Beeren).
 
-**September**: Hollerbeeren ernten.
+**September**: Hollerbeeren ernten (Vogelbeobachtung, rechtzeitig ernten).  Für Saft, Marmelade, Gelee.
 
 **Oktober**: -
 
@@ -618,15 +619,15 @@
 
 **März**: -
 
-**April**: Dirndl Blütezeit beginnt.
+**April**: Dirndl Blütezeit beginnt (gelbe Blüten).  Bienenweide.
 
-**Mai**: Dirndl Blütezeit.
+**Mai**: Dirndl Blütezeit.  -
 
-**Juni**: Dirndl Reifezeit beginnt.
+**Juni**: Dirndl Reifezeit beginnt (erste Früchte färben sich rot).
 
-**Juli**: Dirndl Erntezeit (Hauptsaison).
+**Juli**: Dirndl Erntezeit (Hauptsaison, rote, reife Früchte).  Für Marmelade, Saft, Likör, Kompott.
 
-**August**: Dirndl Erntezeit endet.
+**August**: Dirndl Erntezeit endet (Nachernte möglich).
 
 **September**: -
 
@@ -642,7 +643,7 @@
 
 ---
 
-### <a name="5.2-flieder"></a>5.2 Flieder
+### <a name="5.1-flieder"></a>5.1 Flieder
 
 **Januar**: -
 
@@ -650,11 +651,11 @@
 
 **März**: -
 
-**April**: Flieder beginnt zu blühen.
+**April**: Flieder beginnt zu blühen (Duft genießen!).
 
-**Mai**: Fliederblüten ernten (für Sirup, etc.).
+**Mai**: Fliederblüten ernten (für Sirup, Gelee, Duftsäckchen).  Duftende Blütenpracht.
 
-**Juni**: Verblühtes entfernen.
+**Juni**: Verblühtes entfernen (fördert Blütenbildung im nächsten Jahr und verhindert Samenbildung).  Formschnitt nach der Blüte möglich.
 
 **Juli**: -
 
@@ -667,3 +668,29 @@
 **November**: -
 
 **Dezember**: -
+
+### <a name="5.2-rosen"></a>5.2 Rosen
+
+**Januar**: Winterschutz prüfen und ggf. erneuern (z.B. Reisig).
+
+**Februar**: An frostfreien Tagen Formschnitt durchführen (kräftiger Rückschnitt im Frühjahr fördert Blütenbildung).
+
+**März**: Düngen (Rosendünger), Boden lockern, um die Rosenbasis herum mulchen.
+
+**April**: Bei Bedarf Pflanzenschutzmaßnahmen (z.B. gegen Blattläuse, Rosenrost vorbeugen).  Regelmäßig auf Schädlinge und Krankheiten kontrollieren.
+
+**Mai**: Hauptblütezeit, verwelkte Blüten regelmäßig entfernen (fördert Nachblüte).  Duft genießen!
+
+**Juni**: Nachdüngen (zweite Düngergabe), weiterhin verwelkte Blüten entfernen.  Auf Sternrußtau und andere Krankheiten achten.
+
+**Juli**: Regelmäßig gießen (besonders bei Trockenheit), auf Schädlingsbefall achten (z.B. Spinnmilben).
+
+**August**: Rosen auf den Herbst vorbereiten, nicht mehr düngen (fördert Ausreifung der Triebe für den Winter).  Verwelktes weiterhin entfernen.
+
+**September**: Verblühtes entfernen, auf Krankheiten achten (Herbstliche Witterung begünstigt Pilzkrankheiten).  Evtl. Pflanzenschutz bei Bedarf.
+
+**Oktober**: Pflanzstelle vorbereiten für Neupflanzungen im Herbst (beste Pflanzzeit für wurzelnackte Rosen).  Boden tiefgründig lockern und mit Kompost verbessern.
+
+**November**: Rosen anhäufeln und mit Reisig abdecken (Winterschutz, besonders für Beetrosen und junge Pflanzen).
+
+**Dezember**: Winterschutz kontrollieren und ggf. ergänzen (bei starken Frösten oder Schneefall).  -
