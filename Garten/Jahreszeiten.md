@@ -1,3 +1,5 @@
+# Jahreszeiten Überblick - Stand 10/05/25 
+
 # Jänner
 ## Ruhezeit, Planung, Vorbereitung
 **Vogelfütterung**: Regelmäßig Futter bereitstellen (besonders wichtig bei Schnee).
@@ -14,6 +16,12 @@
 
 **Planung**: Beetpläne erstellen, Anbauplanung für das kommende Jahr festlegen.
 
+**Lagerhaltung**: Lagerobst kontrollieren.
+
+**Kulinarisches**: Nüsse knacken, sortieren und abfüllen. Dörrobst trocknen.
+
+**Sonstiges**: Schnee schaufeln, Brennholz sägen, Glashaus in Ordnung bringen.
+
 # Februar
 ## Voranzucht, Planung, Vorbereitung
 **Vogelfütterung**: Fortsetzen, aber Menge reduzieren, wenn das Wetter milder wird.
@@ -27,6 +35,14 @@
 **Obstbaumschnitt**: An frostfreien Tagen Obstbäume schneiden.
 
 **Planung**: Beetpläne verfeinern, Anbaukalender erstellen.
+
+**Heckenpflege**: Hecke schneiden und verjüngen.
+
+**Lagerhaltung**: Lagerobst kontrollieren.
+
+**Kulinarisches**: Dörrobst trocknen.
+
+**Sonstiges**: Schnee schaufeln.
 
 # März
 ## Voranzucht, erste Freilandarbeiten
