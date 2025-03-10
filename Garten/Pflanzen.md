@@ -1,6 +1,7 @@
 # Pflanzen - Überblick
 **Stand 10/03/25**
 
+---
 ## Inhaltsverzeichnis:
 
 1.  **Gemüse**
@@ -35,6 +36,8 @@
 
 ## 1. Gemüse
 
+---
+
 ### <a name="1.1-tomaten"></a>1.1 Tomaten
 
 **Januar**: -
@@ -60,6 +63,8 @@
 **November**: Keine Arbeiten.
 
 **Dezember**: Keine Arbeiten.
+
+---
 
 ### <a name="1.2-chilis"></a>1.2 Chilis
 
@@ -87,6 +92,8 @@
 
 **Dezember**: Keine Arbeiten.
 
+---
+
 ### <a name="1.3-kürbisgurken"></a>1.3 Kürbis/Gurken
 
 **Januar**: Keine direkten Arbeiten. Planung der Anzucht.
@@ -112,6 +119,8 @@
 **November**: Keine Arbeiten.
 
 **Dezember**: Keine Arbeiten.
+
+---
 
 ### <a name="1.4-wurzelgemüse"></a>1.4 Wurzelgemüse
 
@@ -139,7 +148,11 @@
 
 **Dezember**: Lagergemüse kontrollieren.
 
+---
+
 ## 2. Kräuter
+
+---
 
 ### <a name="2.1-baerlauch"></a>2.1 Bärlauch
 
@@ -167,6 +180,8 @@
 
 **Dezember**: Keine Arbeiten.
 
+---
+
 ### <a name="2.2-waldmeister"></a>2.2 Waldmeister
 
 **Januar**: Keine Arbeiten.
@@ -192,6 +207,8 @@
 **November**: Keine Arbeiten.
 
 **Dezember**: Keine Arbeiten.
+
+---
 
 ### <a name="2.3-lavendel"></a>2.3 Lavendel
 
@@ -219,6 +236,8 @@
 
 **Dezember**: Winterharte Kräuter schützen.
 
+---
+
 ### <a name="2.4-salbei"></a>2.4 Salbei
 
 **Januar**: Winterharte Kräuter (Salbei) bei Bedarf vor starker Sonneneinstrahlung schützen.
@@ -244,6 +263,8 @@
 **November**: Winterharte Kräuter schützen.
 
 **Dezember**: Winterharte Kräuter schützen.
+
+---
 
 ### <a name="2.5-pfefferminze"></a>2.5 Pfefferminze
 
@@ -271,6 +292,8 @@
 
 **Dezember**: Winterharte Kräuter schützen.
 
+---
+
 ### <a name="2.6-melisse"></a>2.6 Melisse
 
 **Januar**: Winterharte Kräuter (Melisse) bei Bedarf vor starker Sonneneinstrahlung schützen.
@@ -296,6 +319,8 @@
 **November**: Winterharte Kräuter schützen.
 
 **Dezember**: Winterharte Kräuter schützen.
+
+---
 
 ### <a name="2.7-thymian"></a>2.7 Thymian
 
@@ -323,6 +348,8 @@
 
 **Dezember**: Winterharte Kräuter schützen.
 
+---
+
 ### <a name="2.8-muskatellersalbei"></a>2.8 Muskatellersalbei
 
 **Januar**: Keine Arbeiten.
@@ -348,6 +375,8 @@
 **November**: Winterharte Kräuter schützen.
 
 **Dezember**: Winterharte Kräuter schützen.
+
+---
 
 ### <a name="2.9-colakraut"></a>2.9 Colakraut
 
@@ -375,7 +404,11 @@
 
 **Dezember**: Winterhart.
 
+---
+
 ## 3. Wildkräuter & Blätter
+
+---
 
 ### <a name="3.1-himbeer--und-brombeerblaetter"></a>3.1 Himbeer- und Brombeerblätter
 
@@ -403,6 +436,8 @@
 
 **Dezember**: Keine Arbeiten.
 
+---
+
 ### <a name="3.2-rotklee"></a>3.2 Rotklee
 
 **Januar**: Keine Arbeiten.
@@ -428,6 +463,8 @@
 **November**: Keine Arbeiten.
 
 **Dezember**: Keine Arbeiten.
+
+---
 
 ### <a name="3.3-gaensebluemchen"></a>3.3 Gänseblümchen
 
@@ -455,6 +492,8 @@
 
 **Dezember**: Keine Arbeiten.
 
+---
+
 ### <a name="3.4-spitzwegerich"></a>3.4 Spitzwegerich
 
 **Januar**: Keine Arbeiten.
@@ -480,6 +519,8 @@
 **November**: Keine Arbeiten.
 
 **Dezember**: Keine Arbeiten.
+
+---
 
 ### <a name="3.5-loewenzahnblaetter"></a>3.5 Löwenzahnblätter
 
@@ -507,6 +548,8 @@
 
 **Dezember**: Keine Arbeiten.
 
+---
+
 ### <a name="3.6-veilchen"></a>3.6 Veilchen
 
 **Januar**: Keine Arbeiten.
@@ -533,7 +576,11 @@
 
 **Dezember**: Keine Arbeiten.
 
+---
+
 ## 4. Obst & Beeren
+
+---
 
 ### <a name="4.1-holler-blueten-und-beeren"></a>4.1 Holler (Blüten und Beeren)
 
@@ -561,6 +608,8 @@
 
 **Dezember**: Keine Arbeiten.
 
+---
+
 ### <a name="4.2-dirndl"></a>4.2 Dirndl
 
 **Januar**: Keine Arbeiten.
@@ -587,7 +636,11 @@
 
 **Dezember**: Keine Arbeiten.
 
+---
+
 ## 5. Zierpflanzen & Rosen
+
+---
 
 ### <a name="5.2-flieder"></a>5.2 Flieder
 
