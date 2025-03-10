@@ -210,9 +210,9 @@
 
 ---
 
-### <a name="2.3-lavendel"></a>2.3 Lavendel
+### <a name="2.3-lavendel"></a>2.3 Lavendel (Winterhart)
 
-**Januar**: Winterharte Kräuter (Lavendel) bei Bedarf vor starker Sonneneinstrahlung schützen.
+**Januar**: -
 
 **Februar**: -
 
@@ -230,17 +230,17 @@
 
 **September**: Kräuter zurückschneiden.
 
-**Oktober**: Winterharte Kräuter schützen.
+**Oktober**: -
 
-**November**: Winterharte Kräuter schützen.
+**November**: -
 
-**Dezember**: Winterharte Kräuter schützen.
+**Dezember**: -
 
 ---
 
-### <a name="2.4-salbei"></a>2.4 Salbei
+### <a name="2.4-salbei"></a>2.4 Salbei (Winterhart)
 
-**Januar**: Winterharte Kräuter (Salbei) bei Bedarf vor starker Sonneneinstrahlung schützen.
+**Januar**: -
 
 **Februar**: -
 
@@ -258,17 +258,17 @@
 
 **September**: Kräuter zurückschneiden.
 
-**Oktober**: Winterharte Kräuter schützen.
+**Oktober**: -
 
-**November**: Winterharte Kräuter schützen.
+**November**: -
 
-**Dezember**: Winterharte Kräuter schützen.
+**Dezember**: -
 
 ---
 
-### <a name="2.5-pfefferminze"></a>2.5 Pfefferminze
+### <a name="2.5-pfefferminze"></a>2.5 Pfefferminze (Winterhart)
 
-**Januar**: Winterharte Kräuter (Pfefferminze) bei Bedarf vor starker Sonneneinstrahlung schützen.
+**Januar**: -
 
 **Februar**: -
 
@@ -286,17 +286,17 @@
 
 **September**: Kräuter zurückschneiden.
 
-**Oktober**: Winterharte Kräuter schützen.
+**Oktober**: -
 
-**November**: Winterharte Kräuter schützen.
+**November**: -
 
-**Dezember**: Winterharte Kräuter schützen.
+**Dezember**: -
 
 ---
 
-### <a name="2.6-melisse"></a>2.6 Melisse
+### <a name="2.6-melisse"></a>2.6 Melisse (Winterhart)
 
-**Januar**: Winterharte Kräuter (Melisse) bei Bedarf vor starker Sonneneinstrahlung schützen.
+**Januar**: -
 
 **Februar**: -
 
@@ -314,17 +314,17 @@
 
 **September**: Kräuter zurückschneiden.
 
-**Oktober**: Winterharte Kräuter schützen.
+**Oktober**: -
 
-**November**: Winterharte Kräuter schützen.
+**November**: -
 
-**Dezember**: Winterharte Kräuter schützen.
+**Dezember**: -
 
 ---
 
-### <a name="2.7-thymian"></a>2.7 Thymian
+### <a name="2.7-thymian"></a>2.7 Thymian (Winterhart)
 
-**Januar**: Winterharte Kräuter (Thymian) bei Bedarf vor starker Sonneneinstrahlung schützen.
+**Januar**: -
 
 **Februar**: -
 
@@ -342,11 +342,11 @@
 
 **September**: Kräuter zurückschneiden.
 
-**Oktober**: Winterharte Kräuter schützen.
+**Oktober**: -
 
-**November**: Winterharte Kräuter schützen.
+**November**: -
 
-**Dezember**: Winterharte Kräuter schützen.
+**Dezember**: -
 
 ---
 
@@ -370,11 +370,11 @@
 
 **September**: Kräuter zurückschneiden.
 
-**Oktober**: Winterharte Kräuter schützen.
+**Oktober**: -
 
-**November**: Winterharte Kräuter schützen.
+**November**: -
 
-**Dezember**: Winterharte Kräuter schützen.
+**Dezember**: -
 
 ---
 
