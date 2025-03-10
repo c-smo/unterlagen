@@ -1,5 +1,4 @@
 # Allgemeines
-
 **Stand: 10.03.2025**
 
 ---

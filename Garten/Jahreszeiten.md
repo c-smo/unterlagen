@@ -1,6 +1,8 @@
 # Jahreszeiten Überblick 
 **Stand 10/03/25**
 
+---
+
 ## Inhaltsverzeichnis:
 
 *   [Jänner](#jänner) - Ruhezeit, Planung, Vorbereitung
