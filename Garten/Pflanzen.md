@@ -4,18 +4,18 @@
 
 # Inhaltsangabe
 
-*   [Jänner](#jänner)
-*   [Februar](#februar)
-*   [März](#märz)
-*   [April](#april)
-*   [Mai](#mai)
-*   [Juni](#juni)
-*   [Juli](#juli)
-*   [August](#august)
-*   [September](#september)
-*   [Oktober](#oktober)
-*   [November](#november)
-*   [Dezember](#dezember)
+*   [Jänner](#jänner) - Ruhezeit, Planung, Vorbereitung
+*   [Februar](#februar) - Voranzucht, Planung, Vorbereitung
+*   [März](#märz) - Voranzucht, erste Freilandarbeiten
+*   [April](#april) - Pflanzzeit, Aussaat, Pflege
+*   [Mai](#mai) - Pflanzzeit, Pflege, erste Ernte
+*   [Juni](#juni) - Pflege, Ernte, Aussaat
+*   [Juli](#juli) - Ernte, Pflege
+*   [August](#august) - Ernte, Vorbereitung auf den Herbst
+*   [September](#september) - Ernte, Vorbereitung auf den Winter
+*   [Oktober](#oktober) - Ernte, Rückschnitt, Winterschutz
+*   [November](#november) - Winterschutz, Aufräumen, Planung
+*   [Dezember](#dezember) - Ruhezeit, Planung, Vorbereitung
 
 ---
 
