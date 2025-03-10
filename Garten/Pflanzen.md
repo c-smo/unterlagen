@@ -1,5 +1,5 @@
 # Pflanzen - Überblick
-**Stand 10/03/25
+**Stand 10/03/25**
 
 ## Inhaltsverzeichnis:
 
