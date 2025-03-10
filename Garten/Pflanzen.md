@@ -1,4 +1,5 @@
-# Jahreszeiten Überblick - Stand 10/05/25
+# Jahreszeiten Überblick 
+### Stand 10/05/25
 
 ---
 

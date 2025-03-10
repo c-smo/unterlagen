@@ -1,4 +1,24 @@
-# Jahreszeiten Überblick - Stand 10/05/25 
+# Jahreszeiten Überblick 
+### Stand 10/05/25
+
+---
+
+# Inhaltsangabe
+
+*   [Jänner](#jänner) - Ruhezeit, Planung, Vorbereitung
+*   [Februar](#februar) - Voranzucht, Planung, Vorbereitung
+*   [März](#märz) - Voranzucht, erste Freilandarbeiten
+*   [April](#april) - Pflanzzeit, Aussaat, Pflege
+*   [Mai](#mai) - Pflanzzeit, Pflege, erste Ernte
+*   [Juni](#juni) - Pflege, Ernte, Aussaat
+*   [Juli](#juli) - Ernte, Pflege
+*   [August](#august) - Ernte, Vorbereitung auf den Herbst
+*   [September](#september) - Ernte, Vorbereitung auf den Winter
+*   [Oktober](#oktober) - Ernte, Rückschnitt, Winterschutz
+*   [November](#november) - Winterschutz, Aufräumen, Planung
+*   [Dezember](#dezember) - Ruhezeit, Planung, Vorbereitung
+
+---
 
 # Jänner
 ## Ruhezeit, Planung, Vorbereitung
@@ -22,6 +42,8 @@
 
 **Sonstiges**: Schnee schaufeln, Brennholz sägen, Glashaus in Ordnung bringen.
 
+---
+
 # Februar
 ## Voranzucht, Planung, Vorbereitung
 **Vogelfütterung**: Fortsetzen, aber Menge reduzieren, wenn das Wetter milder wird.
@@ -44,6 +66,8 @@
 
 **Sonstiges**: Schnee schaufeln.
 
+---
+
 # März
 ## Voranzucht, erste Freilandarbeiten
 **Voranzucht**: Pikieren der Jungpflanzen (z.B. Tomaten, Paprika).
@@ -57,6 +81,8 @@
 **Frühblüherpflege**: Verblühte Frühblüher entfernen.
 
 **Gerätekontrolle**: Funktionstüchtigkeit der Gartengeräte überprüfen und reparieren.
+
+---
 
 # April
 ## Pflanzzeit, Aussaat, Pflege
@@ -72,6 +98,8 @@
 
 **Mulchen**: Beete mit Mulchmaterial abdecken (z.B. Rasenschnitt, Stroh).
 
+---
+
 # Mai
 ## Pflanzzeit, Pflege, erste Ernte
 **Pflanzung**: Auspflanzen von Tomaten, Paprika, Auberginen (nach den Eisheiligen).
@@ -86,6 +114,8 @@
 
 **Ernte**: Erste Ernte von Radieschen, Salat, Spinat und Kräutern.
 
+---
+
 # Juni
 ## Pflege, Ernte, Aussaat
 **Pflege**: Regelmäßig gießen, düngen, Unkraut entfernen.
@@ -97,6 +127,8 @@
 **Pflanzenstützung**: Tomaten und andere hochwachsende Pflanzen stützen.
 
 **Ausgeizen**: Tomaten ausgeizen.
+
+---
 
 # Juli
 ## Ernte, Pflege
@@ -110,6 +142,8 @@
 
 **Schädlingsbekämpfung**: Schutz vor Schädlingen und Krankheiten (natürliche Mittel verwenden).
 
+---
+
 # August
 ## Ernte, Vorbereitung auf den Herbst
 **Ernte**: Ernte von Tomaten, Gurken, Zucchini, Paprika, Kräutern, Obst.
@@ -122,6 +156,8 @@
 
 **Kompostvorbereitung**: Komposthaufen für das nächste Jahr anlegen.
 
+---
+
 # September
 ## Ernte, Vorbereitung auf den Winter
 **Ernte**: Ernte von Äpfeln, Birnen, Nüssen, Kürbissen, Kartoffeln.
@@ -133,6 +169,8 @@
 **Laubsammlung**: Laub sammeln und kompostieren.
 
 **Einlagerung**: Gemüse einlagern (z.B. Kartoffeln, Kürbisse).
+
+---
 
 # Oktober
 ## Ernte, Rückschnitt, Winterschutz
@@ -148,6 +186,8 @@
 
 **Kompostierung**: Reifen Kompost auf die Beete ausbringen.
 
+---
+
 # November
 ## Winterschutz, Aufräumen, Planung
 **Winterschutz**: Winterschutzmaßnahmen überprüfen und ergänzen.
@@ -159,6 +199,8 @@
 **Vogelfütterung**: Mit der Vogelfütterung beginnen.
 
 **Bodenverbesserung**: Bei frostfreiem Wetter den Boden mit Kompost oder Mist verbessern.
+
+---
 
 # Dezember
 ## Ruhezeit, Planung, Vorbereitung
