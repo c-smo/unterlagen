@@ -1,6 +1,6 @@
 # Datenschutz
 
-Ich wurde netterweise darauf hingewiesen, dass hier möglicherweise Datenschutzprobleme entstehen könnten. Wem dies (zurecht) ein großes Anliegen ist, sollte:
+Ich wurde netterweise darauf hingewiesen, dass hier Datenschutzprobleme entstehen können. Wem dies (zurecht) ein großes Anliegen ist, sollte:
 
 Nur einen Screenshot von den Zeiten machen und diesen entweder als Foto, oder mittels OCR als Text, hochladen.
 
