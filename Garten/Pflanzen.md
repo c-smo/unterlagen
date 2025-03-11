@@ -19,6 +19,8 @@
     *   [2.7 Thymian](#2.7-thymian)
     *   [2.8 Muskatellersalbei](#2.8-muskatellersalbei)
     *   [2.9 Colakraut](#2.9-colakraut)
+    *   [2.10 Rosmarin](#2.10-rosmarin)
+    *   [2.11 Oregano](#2.11-oregano)
 3.  **Wildkräuter & Blätter**
     *   [3.1 Himbeer- und Brombeerblätter](#3.1-himbeer--und-brombeerblaetter)
     *   [3.2 Rotklee](#3.2-rotklee)
