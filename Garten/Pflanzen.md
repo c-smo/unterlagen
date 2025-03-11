@@ -41,7 +41,7 @@
 
 ### <a name="1.1-tomaten"></a>1.1 Tomaten
 
-![Lycopersicum philippinarum Blanco1.43b-cropped.jpg](https://upload.wikimedia.org/wikipedia/commons/4/44/Lycopersicum_philippinarum_Blanco1.43b-cropped.jpg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Lycopersicum_philippinarum_Blanco1.43b-cropped.jpg" width="50%">
 
 **Januar**: Anzuchtplanung, Saatgut bestellen.
 
@@ -71,7 +71,7 @@
 
 ### <a name="1.2-chilis"></a>1.2 Chilis
 
-![Illustration Capsicum annuum0.jpg](https://upload.wikimedia.org/wikipedia/commons/5/57/Illustration_Capsicum_annuum0.jpg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/57/Illustration_Capsicum_annuum0.jpg" width="50%">
 
 **Januar**: Anzuchtplanung, Saatgut bestellen, Sorten auswählen (Schärfegrade beachten).
 
@@ -100,9 +100,9 @@
 ---
 
 ### <a name="1.3-kürbisgurken"></a>1.3 Kürbis/Gurken
-![Colocasia esculenta and Curcurbita pepo (15187776498).jpg](https://upload.wikimedia.org/wikipedia/commons/4/4e/Colocasia_esculenta_and_Curcurbita_pepo_%2815187776498%29.jpg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Colocasia_esculenta_and_Curcurbita_pepo_%2815187776498%29.jpg" width="50%">
 
-![Cucumis sativus Blanco2.299-cropped.jpg](https://upload.wikimedia.org/wikipedia/commons/4/44/Cucumis_sativus_Blanco2.299-cropped.jpg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Cucumis_sativus_Blanco2.299-cropped.jpg" width="50%">
 
 **Januar**: Anbauplanung, Sortenwahl (Rankverhalten, Größe beachten), Saatgut bestellen.
 
@@ -164,7 +164,7 @@
 
 ### <a name="2.1-baerlauch"></a>2.1 Bärlauch
 
-![Allium ursinum — Flora Batava — Volume v11.jpg](https://upload.wikimedia.org/wikipedia/commons/c/c5/Allium_ursinum_%E2%80%94_Flora_Batava_%E2%80%94_Volume_v11.jpg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Allium_ursinum_%E2%80%94_Flora_Batava_%E2%80%94_Volume_v11.jpg" width="50%">
 
 **Januar**: -
 
@@ -194,7 +194,7 @@
 
 ### <a name="2.2-waldmeister"></a>2.2 Waldmeister
 
-![Galium odoratum Sturm47.jpg](https://upload.wikimedia.org/wikipedia/commons/4/44/Galium_odoratum_Sturm47.jpg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Galium_odoratum_Sturm47.jpg" width="50%">
 
 **Januar**: -
 
@@ -224,7 +224,7 @@
 
 ### <a name="2.3-lavendel"></a>2.3 Lavendel (Winterhart)
 
-![Lavandula angustifolia - Köhler–s Medizinal-Pflanzen-087.jpg](https://upload.wikimedia.org/wikipedia/commons/4/40/Lavandula_angustifolia_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-087.jpg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Lavandula_angustifolia_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-087.jpg" width="50%">
 
 **Januar**: -
 
@@ -254,7 +254,7 @@
 
 ### <a name="2.4-salbei"></a>2.4 Salbei (Winterhart)
 
-![Salvia officinalis - Köhler–s Medizinal-Pflanzen-126.jpg](https://upload.wikimedia.org/wikipedia/commons/8/85/Salvia_officinalis_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-126.jpg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/85/Salvia_officinalis_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-126.jpg" width="50%">
 
 **Januar**: -
 
@@ -284,7 +284,7 @@
 
 ### <a name="2.5-pfefferminze"></a>2.5 Pfefferminze (Winterhart)
 
-![Mentha × piperita - Köhler–s Medizinal-Pflanzen-095.jpg](https://upload.wikimedia.org/wikipedia/commons/4/49/Mentha_%C3%97_piperita_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-095.jpg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Mentha_%C3%97_piperita_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-095.jpg" width="50%">
 
 **Januar**: -
 
@@ -314,7 +314,7 @@
 
 ### <a name="2.6-melisse"></a>2.6 Melisse (Winterhart)
 
-![Melissa officinalis - Köhler–s Medizinal-Pflanzen-094.jpg](https://upload.wikimedia.org/wikipedia/commons/e/e6/Melissa_officinalis_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-094.jpg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Melissa_officinalis_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-094.jpg" width="50%">
 
 **Januar**: -
 
@@ -344,7 +344,7 @@
 
 ### <a name="2.7-thymian"></a>2.7 Thymian (Winterhart)
 
-![Thymus vulgaris - Köhler–s Medizinal-Pflanzen-271.jpg](https://upload.wikimedia.org/wikipedia/commons/1/12/Thymus_vulgaris_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-271.jpg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Thymus_vulgaris_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-271.jpg" width="50%">
 
 **Januar**: -
 
@@ -374,7 +374,7 @@
 
 ### <a name="2.8-muskatellersalbei"></a>2.8 Muskatellersalbei
 
-![Salvia sclarea II.jpg](https://i.etsystatic.com/8827813/r/il/ed5342/1577812732/il_570xN.1577812732_p8fv.jpg)
+<img src="https://i.etsystatic.com/8827813/r/il/ed5342/1577812732/il_570xN.1577812732_p8fv.jpg" width="50%">
 
 **Januar**: -
 
@@ -404,7 +404,7 @@
 
 ### <a name="2.9-colakraut"></a>2.9 Colakraut
 
-![Artemisia abrotanum, Vietz 1800, Band1, Tafel1 clean.jpg](https://upload.wikimedia.org/wikipedia/commons/c/cc/Artemisia_abrotanum%2C_Vietz_1800%2C_Band1%2C_Tafel1_clean.jpg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Artemisia_abrotanum%2C_Vietz_1800%2C_Band1%2C_Tafel1_clean.jpg" width="50%">
 
 **Januar**: -
 
@@ -432,7 +432,7 @@
 
 ### <a name="2.10-rosmarin"></a>2.10 Rosmarin
 
-![Rosmarinus officinalis - Köhler–s Medizinal-Pflanzen-258.jpg](https://upload.wikimedia.org/wikipedia/commons/0/00/Rosmarinus_officinalis_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-258.jpg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Rosmarinus_officinalis_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-258.jpg" width="50%">
 
 **Januar**: Bei starkem Frost und fehlender Schneedecke mit Vlies oder Reisig schützen. Ggf. Kübelpflanzen an einen geschützten Ort stellen.
 **Februar**: -
@@ -450,7 +450,7 @@
 ---
 ### <a name="2.11-oregano"></a>2.11 Oregano
 
-![254 Origanum vulgare L.jpg](https://upload.wikimedia.org/wikipedia/commons/a/a7/254_Origanum_vulgare_L.jpg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/254_Origanum_vulgare_L.jpg" width="50%">
 
 **Januar**: -
 **Februar**: -
@@ -473,7 +473,7 @@
 
 ### <a name="3.1-himbeer--und-brombeerblaetter"></a>3.1 Himbeer- und Brombeerblätter
 
-![Rubus idaeus - Köhler–s Medizinal-Pflanzen-124.jpg](https://upload.wikimedia.org/wikipedia/commons/7/79/Rubus_idaeus_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-124.jpg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Rubus_idaeus_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-124.jpg" width="50%">
 
 **Januar**: -
 
@@ -503,7 +503,7 @@
 
 ### <a name="3.2-rotklee"></a>3.2 Rotklee
 
-![78 Trifolium pratense L.jpg](https://upload.wikimedia.org/wikipedia/commons/a/a3/78_Trifolium_pratense_L.jpg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/78_Trifolium_pratense_L.jpg" width="50%">
 
 **Januar**: -
 
@@ -533,7 +533,7 @@
 
 ### <a name="3.3-gaensebluemchen"></a>3.3 Gänseblümchen
 
-![Bellis perennis - 001x.jpg](https://upload.wikimedia.org/wikipedia/commons/0/00/Bellis_perennis_-_001x.jpg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Bellis_perennis_-_001x.jpg" width="50%">
 
 **Januar**: -
 
@@ -563,7 +563,7 @@
 
 ### <a name="3.4-spitzwegerich"></a>3.4 Spitzwegerich
 
-![Plantago lanceolata Nordens Flora.jpg](https://upload.wikimedia.org/wikipedia/commons/6/63/Plantago_lanceolata_Nordens_Flora.jpg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Plantago_lanceolata_Nordens_Flora.jpg" width="50%">
 
 **Januar**: -
 
@@ -593,7 +593,7 @@
 
 ### <a name="3.5-loewenzahnblaetter"></a>3.5 Löwenzahnblätter
 
-![Taraxacum officinale - Köhler–s Medizinal-Pflanzen-135.jpg](https://upload.wikimedia.org/wikipedia/commons/b/b2/Taraxacum_officinale_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-135.jpg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Taraxacum_officinale_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-135.jpg" width="50%">
 
 **Januar**: -
 
@@ -623,7 +623,7 @@
 
 ### <a name="3.6-veilchen"></a>3.6 Veilchen
 
-![41 Viola odorata L.jpg](https://upload.wikimedia.org/wikipedia/commons/3/36/41_Viola_odorata_L.jpg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/36/41_Viola_odorata_L.jpg" width="50%">
 
 **Januar**: -
 
@@ -657,7 +657,7 @@
 
 ### <a name="4.1-holler-blueten-und-beeren"></a>4.1 Holler (Blüten und Beeren)
 
-![150 Sambucus nigra L.jpg](https://upload.wikimedia.org/wikipedia/commons/2/22/150_Sambucus_nigra_L.jpg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/22/150_Sambucus_nigra_L.jpg" width="50%">
 
 **Januar**: -
 
@@ -687,7 +687,7 @@
 
 ### <a name="4.2-dirndl"></a>4.2 Dirndl
 
-![Cornus mas — Flora Batava — Volume v17.jpg](https://upload.wikimedia.org/wikipedia/commons/e/e9/Cornus_mas_%E2%80%94_Flora_Batava_%E2%80%94_Volume_v17.jpg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Cornus_mas_%E2%80%94_Flora_Batava_%E2%80%94_Volume_v17.jpg" width="50%">
 
 **Januar**: -
 
@@ -720,7 +720,7 @@
 ---
 
 ### <a name="5.1-flieder"></a>5.1 Flieder
-![Syringa vulgaris Sturm2.jpg](https://upload.wikimedia.org/wikipedia/commons/9/9f/Syringa_vulgaris_Sturm2.jpg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Syringa_vulgaris_Sturm2.jpg" width="50%">
 
 **Januar**: -
 
@@ -748,7 +748,7 @@
 
 ### <a name="5.2-rosen"></a>5.2 Rosen
 
-![Redoute - Rosa gallica regalis.jpg](https://upload.wikimedia.org/wikipedia/commons/3/34/Redoute_-_Rosa_gallica_regalis.jpg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Redoute_-_Rosa_gallica_regalis.jpg" width="50%">
 
 **Januar**: Winterschutz prüfen und ggf. erneuern (z.B. Reisig).
 
