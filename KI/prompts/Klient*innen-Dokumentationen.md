@@ -1,5 +1,3 @@
-# Datenschutz
-
 Bitte achte darauf, dass du keine personenbezogenen Daten eingibst (weder von Klient*innen noch von dir), egal wie die Datenschutzregeln des Anbieters sind. Die Daten werden immer verwendet, um die KI weiter zu trainieren. Für Namen verwende ich z.B. “Herr ###”, und tausche es später aus. Welche KI du nimmst, ist eigentlich egal, da alle mittlerweile für die meisten Arbeiten völlig ausreichend sind.
 
 
