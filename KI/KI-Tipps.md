@@ -1,7 +1,7 @@
 # KI Tipps und Tricks
 
 ## Vorwort
-Ich möchte gleich anfangs erwähnen: Bitte achte darauf, dass du keine personenbezogenen Daten eingibst (weder von Klient:innen noch von dir), egal wie die Datenschutzregeln des Anbieters sind. Die Daten werden immer verwendet, um die KI weiter zu trainieren. Für Namen verwende ich z.B. “Herr ###”, und tausche es später aus. Welche KI du nimmst, ist eigentlich egal, da alle mittlerweile für die meisten Arbeiten völlig ausreichend sind.
+Ich möchte gleich anfangs erwähnen: Bitte achte darauf, dass du keine personenbezogenen Daten eingibst (weder von Klient*innen noch von dir), egal wie die Datenschutzregeln des Anbieters sind. Die Daten werden immer verwendet, um die KI weiter zu trainieren. Für Namen verwende ich z.B. “Herr ###”, und tausche es später aus. Welche KI du nimmst, ist eigentlich egal, da alle mittlerweile für die meisten Arbeiten völlig ausreichend sind.
 
 
 ## Tipps:
@@ -11,7 +11,7 @@ Je genauer du der KI beschreibst, was du willst, desto besser wird die Antwort. 
 
 # Beispiele 
 
-## 1) Klient*:nnen-Dokumentationen
+## 1) Klient*innen-Dokumentationen
 
 **Erster Prompt:**
 
