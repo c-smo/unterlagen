@@ -11,7 +11,9 @@ Je genauer du der KI beschreibst, was du willst, desto besser wird die Antwort. 
 
 # Beispiele 
 
-## 1) Klient*innen-Dokumentationen
+- [Klient*innen-Dokumentationen](https://github.com/c-smo/unterlagen/blob/main/KI/prompts/Klient*innen-Dokumentationen.md)
+- [Leichte Sprache](https://github.com/c-smo/unterlagen/blob/main/KI/prompts/Leichte-Sprache.md)
+- [Dienstplan](https://github.com/c-smo/unterlagen/blob/main/KI/prompts/dienstplan.md)
 
 **Erster Prompt:**
 
