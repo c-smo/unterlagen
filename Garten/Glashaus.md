@@ -2,7 +2,7 @@
 
 ## Inhaltsangabe:
     **Außen**
-	
+
     1. Windmesser & Thermometer
 
     **Glashaus vorne**
@@ -14,7 +14,7 @@
 
 ## 1. Windmesser & Thermometer 
 
-<img src="https://github.com/c-smo/unterlagen/blob/main/Garten/Garten-Bilder/Windmesser-Thermometer.jpg" width="50%">
+<img src="https://github.com/c-smo/unterlagen/blob/main/Garten/Glashaus-Bilder/Windmesser-Thermometer.jpg" width="50%">
 
 A) Windmesser    B) Thermometer
 
