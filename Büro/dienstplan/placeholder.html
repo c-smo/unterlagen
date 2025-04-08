@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JSON Editor - Anderes</title>
+    <link rel="stylesheet" href="./style.css">
+    <!-- Include theme handling script early to prevent flash -->
+    <script>
+        // Apply stored theme or default to dark before DOM loads
+        const savedTheme = localStorage.getItem('theme') || 'dark';
+        document.documentElement.className = savedTheme + '-theme'; // Apply to <html> for early styling
+    </script>
+</head>
+<body> <!-- Class added dynamically by JS -->
+
+    <nav class="navbar">
+        <ul class="nav-links">
+            <li><a href="index.html">Editor</a></li>
+            <li><a href="placeholder.html" class="active">Platzhalter</a></li>
+        </ul>
+        <button id="theme-toggle-btn" class="theme-toggle" aria-label="Toggle Dark Mode">
+             <!-- Icon/Text will be set by JS -->
+        </button>
+    </nav>
+
+    <div class="content-container"> <!-- Use a different container for general content -->
+        <h1>Platzhalter Seite</h1>
+        <p>Dieser Bereich ist für zukünftige Inhalte vorgesehen.</p>
+        <p>Die Navigation und der Theme-Wechsel funktionieren auch hier.</p>
+    </div>
+
+    <script src="script.js"></script> <!-- Include JS for theme toggle -->
+</body>
+</html>

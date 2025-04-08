@@ -1,0 +1,482 @@
+/* Basic Reset */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* --- THEME VARIABLES --- */
+:root {
+    --transition-speed: 0.3s;
+}
+
+/* --- BASE STYLES (Common to both themes) --- */
+html {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    line-height: 1.6;
+    /* Smooth transitions for theme changes */
+    transition: background-color var(--transition-speed) ease, color var(--transition-speed) ease;
+}
+
+body {
+     padding-top: 60px; /* Account for fixed navbar height */
+     background-color: var(--bg-color);
+     color: var(--text-color);
+}
+
+/* --- NAVBAR STYLES --- */
+.navbar {
+    background-color: var(--navbar-bg);
+    padding: 0 25px;
+    position: fixed; /* Make navbar fixed */
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 60px; /* Fixed height */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid var(--border-color);
+    z-index: 1000; /* Ensure navbar stays on top */
+     transition: background-color var(--transition-speed) ease, border-color var(--transition-speed) ease;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+.nav-links a {
+    color: var(--link-color);
+    text-decoration: none;
+    font-weight: 500;
+    padding: 8px 12px;
+    border-radius: 4px;
+    transition: background-color var(--transition-speed) ease, color var(--transition-speed) ease;
+}
+
+.nav-links a:hover {
+    background-color: var(--link-hover-bg);
+    color: var(--link-hover-color);
+}
+
+.nav-links a.active {
+    background-color: var(--accent-color);
+    color: var(--accent-text-color);
+    font-weight: bold;
+}
+
+.theme-toggle {
+    background: none;
+    border: 1px solid var(--border-color);
+    color: var(--text-color);
+    padding: 8px 12px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 0.9em;
+    transition: background-color var(--transition-speed) ease, color var(--transition-speed) ease, border-color var(--transition-speed) ease;
+}
+
+.theme-toggle:hover {
+     background-color: var(--button-hover-bg);
+     border-color: var(--accent-color);
+}
+
+
+/* --- DARK THEME (Default or .dark-theme) --- */
+html.dark-theme {
+    --bg-color: #1a1a1a;
+    --text-color: #e0e0e0;
+    --navbar-bg: #222;
+    --border-color: #444;
+    --container-bg: #2a2a2a;
+    --fieldset-bg: #333;
+    --input-bg: #444;
+    --input-border: #555;
+    --input-invalid-border: #dc3545; /* Red for invalid */
+    --error-text-color: #ff6666; /* Lighter red for dark theme */
+    --button-hover-bg: #383838;
+    --link-color: #b0b0b0;
+    --link-hover-bg: #444;
+    --link-hover-color: #fff;
+    --accent-color: #00aaff;
+    --accent-text-color: #ffffff;
+    --code-bg: #111;
+    --code-color: #f0f0f0;
+    --shadow-color: rgba(0, 0, 0, 0.5);
+    --date-picker-scheme: dark;
+    --list-item-bg: #3a3a3a;
+    --list-item-border: #555;
+
+    /* Arbeitstag Button Colors */
+    --arbeitstag-btn-bg: #555;
+    --arbeitstag-btn-text: #ccc;
+    --arbeitstag-btn-border: #666;
+    --arbeitstag-btn-hover-bg: #666;
+    --arbeitstag-btn-active-bg: var(--accent-color);
+    --arbeitstag-btn-active-text: var(--accent-text-color);
+    --arbeitstag-btn-active-border: var(--accent-color);
+    --arbeitstag-btn-active-hover-bg: #0088dd; /* Slightly darker accent */
+
+    /* Other Button specific colors */
+    --btn-add-bg: #007bff;
+    --btn-add-hover-bg: #0056b3;
+    --btn-add-text: white;
+    --btn-remove-bg: #dc3545;
+    --btn-remove-hover-bg: #c82333;
+    --btn-remove-text: white;
+    --btn-load-bg: #ffc107;
+    --btn-load-hover-bg: #e0a800;
+    --btn-load-text: #333;
+    --btn-export-bg: #28a745;
+    --btn-export-hover-bg: #218838;
+    --btn-export-text: white;
+}
+
+/* --- LIGHT THEME --- */
+html.light-theme {
+    --bg-color: #f4f4f4;
+    --text-color: #333;
+    --navbar-bg: #ffffff;
+    --border-color: #ddd;
+    --container-bg: #ffffff;
+    --fieldset-bg: #f9f9f9;
+    --input-bg: #ffffff;
+    --input-border: #ccc;
+    --input-invalid-border: #dc3545; /* Red for invalid */
+    --error-text-color: #dc3545; /* Standard red for light theme */
+    --button-hover-bg: #e9e9e9;
+    --link-color: #007bff;
+    --link-hover-bg: #e9ecef;
+    --link-hover-color: #0056b3;
+    --accent-color: #007bff;
+    --accent-text-color: #ffffff;
+    --code-bg: #eef;
+    --code-color: #333;
+    --shadow-color: rgba(0, 0, 0, 0.1);
+    --date-picker-scheme: light;
+    --list-item-bg: #f0f0f0;
+    --list-item-border: #e0e0e0;
+
+     /* Arbeitstag Button Colors */
+    --arbeitstag-btn-bg: #e9ecef;
+    --arbeitstag-btn-text: #495057;
+    --arbeitstag-btn-border: #ced4da;
+    --arbeitstag-btn-hover-bg: #dee2e6;
+    --arbeitstag-btn-active-bg: var(--accent-color);
+    --arbeitstag-btn-active-text: var(--accent-text-color);
+    --arbeitstag-btn-active-border: var(--accent-color);
+    --arbeitstag-btn-active-hover-bg: #0056b3; /* Slightly darker accent */
+
+     /* Other Button specific colors */
+    --btn-add-bg: #007bff;
+    --btn-add-hover-bg: #0056b3;
+    --btn-add-text: white;
+    --btn-remove-bg: #dc3545;
+    --btn-remove-hover-bg: #c82333;
+    --btn-remove-text: white;
+    --btn-load-bg: #ffc107;
+    --btn-load-hover-bg: #e0a800;
+    --btn-load-text: #333;
+    --btn-export-bg: #28a745;
+    --btn-export-hover-bg: #218838;
+    --btn-export-text: white;
+}
+
+
+/* --- CONTENT STYLING (Using CSS Variables) --- */
+
+/* General Container Styling (for index.html) */
+.editor-container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 30px;
+    background-color: var(--container-bg);
+    border-radius: 8px;
+    box-shadow: 0 4px 15px var(--shadow-color);
+    transition: background-color var(--transition-speed) ease, box-shadow var(--transition-speed) ease;
+}
+
+/* General Container Styling (for placeholder.html) */
+.content-container {
+    max-width: 900px;
+    margin: 20px auto;
+    padding: 30px;
+    background-color: var(--container-bg);
+    border-radius: 8px;
+    box-shadow: 0 2px 10px var(--shadow-color);
+     transition: background-color var(--transition-speed) ease, box-shadow var(--transition-speed) ease;
+}
+.content-container h1 { /* Style heading on placeholder */
+     color: var(--accent-color);
+     margin-bottom: 15px;
+     border-bottom: 1px solid var(--border-color);
+     padding-bottom: 10px;
+}
+
+/* Headings */
+h1 {
+    color: var(--accent-color);
+    border-bottom: 1px solid var(--border-color);
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+    transition: color var(--transition-speed) ease, border-color var(--transition-speed) ease;
+}
+h2 { /* General H2 styling if needed */
+    color: var(--accent-color);
+    border-bottom: 1px solid var(--border-color);
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+    transition: color var(--transition-speed) ease, border-color var(--transition-speed) ease;
+    margin-top: 30px;
+    font-size: 1.2em;
+}
+
+
+/* Form Styling */
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+
+fieldset {
+    border: 1px solid var(--border-color);
+    padding: 20px;
+    border-radius: 6px;
+    background-color: var(--fieldset-bg);
+    transition: background-color var(--transition-speed) ease, border-color var(--transition-speed) ease;
+}
+
+legend {
+    font-weight: bold;
+    color: var(--accent-color);
+    padding: 0 10px;
+    margin-left: 10px;
+    font-size: 1.1em;
+    transition: color var(--transition-speed) ease;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: 500;
+    color: var(--text-color);
+     transition: color var(--transition-speed) ease;
+}
+
+input[type="text"],
+input[type="number"],
+input[type="date"] {
+    /* Applied specifically where needed now */
+    padding: 10px;
+    border: 1px solid var(--input-border);
+    background-color: var(--input-bg);
+    color: var(--text-color);
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-size: 1em;
+    transition: background-color var(--transition-speed) ease, color var(--transition-speed) ease, border-color var(--transition-speed) ease;
+}
+input[type="text"], input[type="number"] {
+     width: calc(100% - 22px); /* Maintain for basic inputs */
+}
+
+input[type="date"] {
+    color-scheme: var(--date-picker-scheme);
+}
+
+/* Style for invalid date inputs */
+input.invalid-date {
+    border-color: var(--input-invalid-border) !important;
+}
+
+
+/* Arbeitstage Buttons Styling */
+.arbeitstage-buttons {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    padding-top: 10px;
+}
+
+.arbeitstag-btn {
+    padding: 8px 15px;
+    border: 1px solid var(--arbeitstag-btn-border);
+    background-color: var(--arbeitstag-btn-bg);
+    color: var(--arbeitstag-btn-text);
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 0.9em;
+    font-weight: 500;
+    min-width: 50px;
+    text-align: center;
+    transition: background-color 0.2s ease, color 0.2s ease, border-color 0.2s ease, transform 0.1s ease;
+    user-select: none;
+}
+
+.arbeitstag-btn:hover {
+    background-color: var(--arbeitstag-btn-hover-bg);
+    transform: translateY(-1px);
+}
+
+.arbeitstag-btn.active {
+    background-color: var(--arbeitstag-btn-active-bg);
+    color: var(--arbeitstag-btn-active-text);
+    border-color: var(--arbeitstag-btn-active-border);
+    font-weight: bold;
+}
+
+.arbeitstag-btn.active:hover {
+    background-color: var(--arbeitstag-btn-active-hover-bg);
+}
+
+
+/* --- Date Range Input Area & List Area Styling --- */
+
+.date-range-input-area {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 15px;
+    padding: 10px;
+    border: 1px dashed var(--border-color);
+    border-radius: 4px;
+}
+
+.date-range-input-area label {
+    margin-bottom: 0;
+    white-space: nowrap;
+    flex-shrink: 0;
+}
+
+.date-range-input-area input[type="date"] {
+    flex-grow: 1;
+    min-width: 130px;
+    width: auto;
+}
+
+/* Adjust single date input area */
+.date-range-input-area.single-date input[type="date"] {
+    flex-grow: 0; /* Don't let it grow excessively */
+    width: 160px; /* Set a reasonable width */
+}
+
+.date-range-input-area .add-item-btn {
+    background-color: var(--btn-add-bg);
+    color: var(--btn-add-text);
+    padding: 8px 15px;
+    font-size: 0.9em;
+    margin-left: auto;
+    flex-shrink: 0;
+}
+.date-range-input-area .add-item-btn:hover {
+    background-color: var(--btn-add-hover-bg);
+}
+
+
+/* Error message styling for Input Area */
+.date-range-input-area .date-error {
+    color: var(--error-text-color);
+    font-size: 0.8em;
+    display: none;
+    width: 100%;
+    text-align: left;
+    padding-left: 15px;
+    margin-top: 3px;
+    flex-basis: 100%;
+    order: 5;
+}
+
+
+/* List Area Styling */
+.date-range-list-area {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin-top: 10px;
+    padding-left: 10px;
+    border-left: 2px solid var(--accent-color);
+    min-height: 20px;
+}
+
+/* Styling for each added item in the list */
+.added-date-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 15px;
+    padding: 8px 12px;
+    background-color: var(--list-item-bg);
+    border: 1px solid var(--list-item-border);
+    border-radius: 4px;
+    font-size: 0.95em;
+}
+
+.added-date-item span {
+    white-space: nowrap;
+}
+
+.added-date-item .remove-item-btn {
+    background-color: var(--btn-remove-bg);
+    color: var(--btn-remove-text);
+    padding: 4px 8px;
+    font-size: 0.8em;
+    flex-shrink: 0;
+    border-radius: 3px;
+}
+.added-date-item .remove-item-btn:hover {
+    background-color: var(--btn-remove-hover-bg);
+}
+
+
+/* --- General Buttons --- */
+button { /* General button reset */
+    padding: 10px 18px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1em;
+    transition: background-color 0.2s ease, color 0.2s ease, opacity 0.2s ease;
+    font-weight: 500;
+}
+button:hover {
+     transform: none; /* Reset any global transforms */
+}
+
+/* Keep specific styles for action buttons */
+.actions {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+
+button.load-btn {
+    background-color: var(--btn-load-bg);
+    color: var(--btn-load-text);
+    padding: 12px 25px;
+    font-size: 1.1em;
+    min-width: 150px;
+    border-radius: 5px;
+}
+button.load-btn:hover { background-color: var(--btn-load-hover-bg); }
+
+button.export-btn {
+    background-color: var(--btn-export-bg);
+    color: var(--btn-export-text);
+    padding: 12px 25px;
+    font-size: 1.1em;
+    min-width: 150px;
+    border-radius: 5px;
+}
+button.export-btn:hover { background-color: var(--btn-export-hover-bg); }

@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JSON Editor - Konfiguration</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- Include theme handling script early to prevent flash -->
+    <script>
+        // Apply stored theme or default to dark before DOM loads
+        const savedTheme = localStorage.getItem('theme') || 'dark';
+        document.documentElement.className = savedTheme + '-theme'; // Apply to <html> for early styling
+    </script>
+</head>
+<body> <!-- Class added dynamically by JS -->
+
+    <nav class="navbar">
+        <ul class="nav-links">
+            <li><a href="index.html" class="active">Editor</a></li>
+            <li><a href="placeholder.html">Platzhalter</a></li>
+        </ul>
+        <button id="theme-toggle-btn" class="theme-toggle" aria-label="Toggle Dark Mode">
+             <!-- Icon/Text will be set by JS -->
+        </button>
+    </nav>
+
+    <div class="editor-container">
+        <h1>Mitarbeiter Konfiguration</h1>
+
+        <form id="json-editor-form">
+            <!-- Basic Info -->
+            <fieldset>
+                <legend>Grunddaten</legend>
+                <div class="form-group">
+                    <label for="name">Name:</label>
+                    <input type="text" id="name" value="Max Mustermann">
+                </div>
+                <div class="form-group">
+                    <label for="stunden">Stunden pro Woche:</label>
+                    <input type="number" id="stunden" value="37" min="0">
+                </div>
+                 <div class="form-group">
+                    <label for="nachtdienst">Nachtdienst Faktor (0-1):</label>
+                    <input type="number" id="nachtdienst" value="0.5" step="0.1" min="0" max="1">
+                </div>
+            </fieldset>
+
+            <!-- Arbeitstage -->
+            <fieldset>
+                <legend>Arbeitstage</legend>
+                <div class="arbeitstage-buttons">
+                    <button type="button" class="arbeitstag-btn active" data-day="Montag">Mo</button>
+                    <button type="button" class="arbeitstag-btn active" data-day="Dienstag">Di</button>
+                    <button type="button" class="arbeitstag-btn active" data-day="Mittwoch">Mi</button>
+                    <button type="button" class="arbeitstag-btn active" data-day="Donnerstag">Do</button>
+                    <button type="button" class="arbeitstag-btn active" data-day="Freitag">Fr</button>
+                    <button type="button" class="arbeitstag-btn active" data-day="Samstag">Sa</button>
+                    <button type="button" class="arbeitstag-btn active" data-day="Sonntag">So</button>
+                </div>
+            </fieldset>
+
+            <!-- Abwesenheiten Removed -->
+
+            <!-- ZWK -->
+            <fieldset>
+                <legend>ZWK</legend>
+                 <div class="date-range-input-area" data-type="zwk">
+                    <label>Von:</label>
+                    <input type="date" class="date-von-input">
+                    <label>Bis:</label>
+                    <input type="date" class="date-bis-input" disabled>
+                     <span class="date-error"></span>
+                    <button type="button" class="add-item-btn">Hinzufügen</button>
+                </div>
+                <div class="date-range-list-area" id="zwk-list-area">
+                    <!-- Added items will appear here -->
+                </div>
+            </fieldset>
+
+            <!-- Urlaub -->
+            <fieldset>
+                <legend>Urlaub</legend>
+                 <div class="date-range-input-area" data-type="urlaub">
+                    <label>Von:</label>
+                    <input type="date" class="date-von-input">
+                    <label>Bis:</label>
+                    <input type="date" class="date-bis-input" disabled>
+                     <span class="date-error"></span>
+                    <button type="button" class="add-item-btn">Hinzufügen</button>
+                </div>
+                <div class="date-range-list-area" id="urlaub-list-area">
+                    <!-- Added items will appear here -->
+                </div>
+            </fieldset>
+
+            <!-- Wunschfrei - Modified for single date -->
+            <fieldset>
+                <legend>Wunschfrei</legend>
+                 <div class="date-range-input-area single-date" data-type="wunschfrei">
+                    <label>Am:</label> <!-- Changed label -->
+                    <input type="date" class="date-von-input"> <!-- Only Von input remains -->
+                     <!-- Removed Bis label and input -->
+                     <span class="date-error"></span>
+                    <button type="button" class="add-item-btn">Hinzufügen</button>
+                </div>
+                <div class="date-range-list-area" id="wunschfrei-list-area">
+                    <!-- Added items will appear here -->
+                </div>
+            </fieldset>
+
+            <!-- Actions -->
+            <div class="actions">
+                <input type="file" id="load-json-input" accept=".json" style="display: none;">
+                <button type="button" id="load-json-btn" class="load-btn">Laden</button>
+                <button type="button" id="export-btn" class="export-btn">Speichern</button>
+            </div>
+
+        </form>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
