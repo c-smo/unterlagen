@@ -1,18 +1,12 @@
-// Wait for the DOM to be fully loaded
 document.addEventListener('DOMContentLoaded', () => {
 
-    // --- Constants ---
     const SETTINGS_STORAGE_KEY = 'generalAppSettings';
 
-    // --- DOM References ---
     const monthYearInput = document.getElementById('setting-month-year');
-
     const teamDayInput = document.getElementById('team-day-input');
     const addTeamDayBtn = document.getElementById('add-team-day-btn');
     const teamDaysList = document.getElementById('team-days-list');
     const teamDayError = document.getElementById('team-day-error');
-
-
     const shiftLabelInput = document.getElementById('shift-label-input');
     const shiftStartTimeInput = document.getElementById('shift-start-time-input');
     const shiftEndTimeInput = document.getElementById('shift-end-time-input');
@@ -20,16 +14,12 @@ document.addEventListener('DOMContentLoaded', () => {
     const shiftTypesList = document.getElementById('shift-types-list');
     const shiftTypeError = document.getElementById('shift-type-error');
 
-    // --- Helper Functions ---
-
-    // Format YYYY-MM-DD to DD.MM.YYYY for display
     const formatDateForDisplay = (isoDate) => {
         if (!isoDate || typeof isoDate !== 'string' || !isoDate.includes('-')) return '';
-        const parts = isoDate.split('-'); // [YYYY, MM, DD]
+        const parts = isoDate.split('-');
         return parts.length === 3 ? `${parts[2]}.${parts[1]}.${parts[0]}` : '';
     };
 
-    // Clear error messages
     const clearError = (errorElement) => {
         if(errorElement) {
             errorElement.textContent = '';
@@ -37,7 +27,6 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     };
 
-    // Display error messages
     const showError = (errorElement, message) => {
          if(errorElement) {
             errorElement.textContent = message;
@@ -45,10 +34,9 @@ document.addEventListener('DOMContentLoaded', () => {
          }
     };
 
-    // Get current state from UI lists
     const getCurrentTeamDays = () => {
         return Array.from(teamDaysList.querySelectorAll('.list-item'))
-                    .map(item => item.dataset.date); // Read from data attribute
+                    .map(item => item.dataset.date);
     };
 
     const getCurrentShiftTypes = () => {
@@ -60,8 +48,6 @@ document.addEventListener('DOMContentLoaded', () => {
                     }));
     };
 
-    // --- Core Logic: Save and Load ---
-
     const saveSettings = () => {
         try {
             const settings = {
@@ -70,7 +56,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 shiftTypes: getCurrentShiftTypes()
             };
             localStorage.setItem(SETTINGS_STORAGE_KEY, JSON.stringify(settings));
-             console.log("Settings saved:", settings); // For debugging
+             console.log("Settings saved:", settings);
         } catch (error) {
             console.error("Error saving settings to localStorage:", error);
         }
@@ -79,66 +65,49 @@ document.addEventListener('DOMContentLoaded', () => {
     const loadSettings = () => {
         const savedSettings = localStorage.getItem(SETTINGS_STORAGE_KEY);
 
-        // --- MODIFICATION START ---
         if (!savedSettings) {
             console.log("No saved settings found. Setting default month/year.");
-            // Set default month/year to current system time
             const now = new Date();
             const year = now.getFullYear();
-            // getMonth() is 0-indexed, add 1. Pad with '0' if needed.
             const month = (now.getMonth() + 1).toString().padStart(2, '0');
             monthYearInput.value = `${year}-${month}`;
-
-            // Since we set a default, trigger a save so it persists
-            // if the user navigates away without changing anything else.
             saveSettings();
-            return; // Stop loading here as there are no other saved settings
+            return;
         }
-        // --- MODIFICATION END ---
-
 
         try {
             const settings = JSON.parse(savedSettings);
-            console.log("Loading settings:", settings); // For debugging
+            console.log("Loading settings:", settings);
 
-            // Populate Month/Year from saved data
             if (settings.monthYear) {
                 monthYearInput.value = settings.monthYear;
             } else {
-                 // Fallback if saved data exists but monthYear is missing/null
                  const now = new Date();
                  const year = now.getFullYear();
                  const month = (now.getMonth() + 1).toString().padStart(2, '0');
                  monthYearInput.value = `${year}-${month}`;
             }
 
-            // Populate Team Days
-            teamDaysList.innerHTML = ''; // Clear existing list
+            teamDaysList.innerHTML = '';
             if (Array.isArray(settings.teamDays)) {
-                settings.teamDays.forEach(date => renderTeamDay(date, false)); // Don't save on initial load
+                settings.teamDays.forEach(date => renderTeamDay(date, false));
             }
 
-            // Populate Shift Types
-            shiftTypesList.innerHTML = ''; // Clear existing list
+            shiftTypesList.innerHTML = '';
             if (Array.isArray(settings.shiftTypes)) {
-                settings.shiftTypes.forEach(shift => renderShiftType(shift, false)); // Don't save on initial load
+                settings.shiftTypes.forEach(shift => renderShiftType(shift, false));
             }
 
         } catch (error) {
             console.error("Error parsing settings from localStorage:", error);
-            // If parsing fails, could set default month/year as a recovery step
              const now = new Date();
              const year = now.getFullYear();
              const month = (now.getMonth() + 1).toString().padStart(2, '0');
              monthYearInput.value = `${year}-${month}`;
-             // Optionally clear corrupted data: localStorage.removeItem(SETTINGS_STORAGE_KEY);
         }
     };
 
-    // --- Rendering Functions (Create UI elements) ---
-    // ... (renderTeamDay and renderShiftType functions remain unchanged) ...
-
-    const renderTeamDay = (dateString, shouldSave = true) => {
+     const renderTeamDay = (dateString, shouldSave = true) => {
         if (!dateString) return;
 
         const existingDates = getCurrentTeamDays();
@@ -205,14 +174,8 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     };
 
-
-    // --- Event Listeners ---
-    // ... (listeners remain unchanged) ...
-
-    // 1. Save on simple input change
     monthYearInput.addEventListener('change', saveSettings);
 
-    // 2. Add Team Day
     addTeamDayBtn.addEventListener('click', () => {
         const dateValue = teamDayInput.value;
         clearError(teamDayError);
@@ -225,7 +188,6 @@ document.addEventListener('DOMContentLoaded', () => {
         teamDayInput.value = '';
     });
 
-    // 3. Add Shift Type
     addShiftTypeBtn.addEventListener('click', () => {
         const label = shiftLabelInput.value.trim();
         const start = shiftStartTimeInput.value;
@@ -248,19 +210,13 @@ document.addEventListener('DOMContentLoaded', () => {
             return;
         }
 
-        if (start >= end) {
-            showError(shiftTypeError, "Endzeit muss nach Startzeit liegen.");
-            shiftEndTimeInput.focus();
-            return;
-        }
-
         renderShiftType({ label, start, end });
+
         shiftLabelInput.value = '';
         shiftStartTimeInput.value = '';
         shiftEndTimeInput.value = '';
     });
 
-    // 4. Remove Items (Event Delegation on lists)
     const handleRemoveClick = (event, listElement) => {
          if (event.target.classList.contains('remove-item-btn')) {
             const itemToRemove = event.target.closest('.list-item');
@@ -274,8 +230,6 @@ document.addEventListener('DOMContentLoaded', () => {
     teamDaysList.addEventListener('click', (e) => handleRemoveClick(e, teamDaysList));
     shiftTypesList.addEventListener('click', (e) => handleRemoveClick(e, shiftTypesList));
 
+    loadSettings();
 
-    // --- Initial Load ---
-    loadSettings(); // This now handles the default month/year setting
-
-}); // End DOMContentLoaded
+});

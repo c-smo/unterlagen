@@ -22,6 +22,7 @@ body {
      padding-top: 60px; /* Account for fixed navbar height */
      background-color: var(--bg-color);
      color: var(--text-color);
+     transition: background-color var(--transition-speed) ease, color var(--transition-speed) ease; /* Add transition to body */
 }
 
 /* --- NAVBAR STYLES --- */
@@ -198,7 +199,7 @@ html.light-theme {
     transition: background-color var(--transition-speed) ease, box-shadow var(--transition-speed) ease;
 }
 
-/* General Container Styling (for placeholder.html) */
+/* General Container Styling (for settings.html) */
 .content-container {
     max-width: 900px;
     margin: 20px auto;
@@ -208,7 +209,7 @@ html.light-theme {
     box-shadow: 0 2px 10px var(--shadow-color);
      transition: background-color var(--transition-speed) ease, box-shadow var(--transition-speed) ease;
 }
-.content-container h1 { /* Style heading on placeholder */
+.content-container h1 { /* Style heading on settings page */
      color: var(--accent-color);
      margin-bottom: 15px;
      border-bottom: 1px solid var(--border-color);
@@ -216,7 +217,7 @@ html.light-theme {
 }
 
 /* Headings */
-h1 {
+h1 { /* Applies to index.html H1 too */
     color: var(--accent-color);
     border-bottom: 1px solid var(--border-color);
     padding-bottom: 10px;
@@ -237,7 +238,7 @@ h2 { /* General H2 styling if needed */
 
 
 /* Form Styling */
-form {
+form { /* Applies to index.html form */
     display: flex;
     flex-direction: column;
     gap: 25px;
@@ -272,10 +273,12 @@ label {
      transition: color var(--transition-speed) ease;
 }
 
+/* General Input Styling (applies theme) */
 input[type="text"],
 input[type="number"],
-input[type="date"] {
-    /* Applied specifically where needed now */
+input[type="date"],
+input[type="time"],
+input[type="month"] { /* Added month */
     padding: 10px;
     border: 1px solid var(--input-border);
     background-color: var(--input-bg);
@@ -285,11 +288,16 @@ input[type="date"] {
     font-size: 1em;
     transition: background-color var(--transition-speed) ease, color var(--transition-speed) ease, border-color var(--transition-speed) ease;
 }
-input[type="text"], input[type="number"] {
-     width: calc(100% - 22px); /* Maintain for basic inputs */
+/* Specific width for index.html text/number */
+#json-editor-form input[type="text"],
+#json-editor-form input[type="number"] {
+     width: calc(100% - 22px);
 }
 
-input[type="date"] {
+/* Theme for browser date/time/month pickers */
+input[type="date"],
+input[type="time"],
+input[type="month"] {
     color-scheme: var(--date-picker-scheme);
 }
 
@@ -339,7 +347,7 @@ input.invalid-date {
 }
 
 
-/* --- Date Range Input Area & List Area Styling --- */
+/* --- Date Range Input Area & List Area Styling (index.html) --- */
 
 .date-range-input-area {
     display: flex;
@@ -350,6 +358,7 @@ input.invalid-date {
     padding: 10px;
     border: 1px dashed var(--border-color);
     border-radius: 4px;
+    transition: border-color var(--transition-speed) ease; /* Added */
 }
 
 .date-range-input-area label {
@@ -361,7 +370,8 @@ input.invalid-date {
 .date-range-input-area input[type="date"] {
     flex-grow: 1;
     min-width: 130px;
-    width: auto;
+    width: auto; /* Allow shrinking */
+    /* Inherits themed styles */
 }
 
 /* Adjust single date input area */
@@ -370,34 +380,32 @@ input.invalid-date {
     width: 160px; /* Set a reasonable width */
 }
 
+/* Specific Layout for Add button in index.html */
 .date-range-input-area .add-item-btn {
-    background-color: var(--btn-add-bg);
-    color: var(--btn-add-text);
     padding: 8px 15px;
     font-size: 0.9em;
-    margin-left: auto;
+    margin-left: auto; /* Push to right */
     flex-shrink: 0;
+    /* Colors/hover inherited from global .add-item-btn rule */
 }
-.date-range-input-area .add-item-btn:hover {
-    background-color: var(--btn-add-hover-bg);
-}
-
 
 /* Error message styling for Input Area */
-.date-range-input-area .date-error {
+.date-range-input-area .date-error,
+.settings-input-area .date-error { /* Shared error styling */
     color: var(--error-text-color);
     font-size: 0.8em;
-    display: none;
+    display: none; /* Hidden by default */
     width: 100%;
     text-align: left;
-    padding-left: 15px;
+    padding-left: 15px; /* Consistent padding */
     margin-top: 3px;
-    flex-basis: 100%;
-    order: 5;
+    flex-basis: 100%; /* Ensure it takes a new line */
+    order: 5; /* Place below inputs/button */
+    transition: color var(--transition-speed) ease; /* Added */
 }
 
 
-/* List Area Styling */
+/* List Area Styling (index.html) */
 .date-range-list-area {
     display: flex;
     flex-direction: column;
@@ -406,9 +414,10 @@ input.invalid-date {
     padding-left: 10px;
     border-left: 2px solid var(--accent-color);
     min-height: 20px;
+    transition: border-color var(--transition-speed) ease; /* Added */
 }
 
-/* Styling for each added item in the list */
+/* Styling for each added item in the list (index.html) */
 .added-date-item {
     display: flex;
     align-items: center;
@@ -419,12 +428,14 @@ input.invalid-date {
     border: 1px solid var(--list-item-border);
     border-radius: 4px;
     font-size: 0.95em;
+    transition: background-color var(--transition-speed) ease, border-color var(--transition-speed) ease; /* Added */
 }
 
 .added-date-item span {
     white-space: nowrap;
 }
 
+/* Specific Remove Button for index.html list */
 .added-date-item .remove-item-btn {
     background-color: var(--btn-remove-bg);
     color: var(--btn-remove-text);
@@ -432,9 +443,118 @@ input.invalid-date {
     font-size: 0.8em;
     flex-shrink: 0;
     border-radius: 3px;
+    transition: background-color 0.2s ease; /* Specific transition */
 }
 .added-date-item .remove-item-btn:hover {
     background-color: var(--btn-remove-hover-bg);
+}
+
+
+/* --- Settings Page Specific Styles --- */
+
+/* Container for input elements + button in settings */
+.settings-input-area {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    gap: 15px;
+    padding: 15px;
+    border: 1px dashed var(--border-color);
+    border-radius: 4px;
+    margin-bottom: 15px;
+    transition: border-color var(--transition-speed) ease; /* Added */
+}
+
+/* Group label/input vertically in settings */
+.settings-input-area .form-group {
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+    margin-bottom: 0; /* Remove default margin */
+    flex-grow: 1; /* Allow input groups to grow */
+}
+
+.settings-input-area label {
+    margin-bottom: 0;
+    font-size: 0.9em;
+    white-space: nowrap;
+}
+
+/* Input sizing within settings */
+.settings-input-area input[type="date"],
+.settings-input-area input[type="time"],
+.settings-input-area input[type="text"] {
+    width: auto; /* Override form-wide width */
+    min-width: 130px; /* Ensure minimum usable width */
+    padding: 8px; /* Slightly smaller padding */
+    /* Inherits background, color, border from the main input rule */
+}
+.settings-input-area input[type="time"] {
+    min-width: 100px;
+}
+
+/* Specific Layout for Add button in settings.html */
+.settings-input-area .add-item-btn {
+     margin-left: auto;
+     flex-shrink: 0;
+     height: fit-content; /* Align with bottom of inputs */
+     padding: 8px 15px; /* Match input padding */
+     margin-bottom: 0; /* Align baseline */
+     /* Colors/hover inherited from global .add-item-btn rule */
+}
+
+/* List area styling for settings */
+.settings-list-area {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin-top: 15px;
+    padding-left: 15px;
+    border-left: 2px solid var(--accent-color);
+    min-height: 30px; /* Visual minimum height */
+    transition: border-color var(--transition-speed) ease; /* Added */
+}
+
+/* Styling for added list items (settings.html - generic base) */
+.settings-list-area .list-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 15px;
+    padding: 8px 12px;
+    background-color: var(--list-item-bg);
+    border: 1px solid var(--list-item-border);
+    border-radius: 4px;
+    font-size: 0.95em;
+    transition: background-color var(--transition-speed) ease, border-color var(--transition-speed) ease; /* Added */
+}
+
+.settings-list-area .list-item span {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis; /* Prevent long text overflow */
+}
+
+/* Specific Remove Button for settings.html list */
+.settings-list-area .remove-item-btn {
+    background-color: transparent;
+    color: var(--error-text-color);
+    padding: 2px 6px;
+    font-size: 1.1em;
+    line-height: 1;
+    font-weight: bold;
+    flex-shrink: 0;
+    border-radius: 50%;
+    border: 1px solid transparent;
+    min-width: 24px;
+    min-height: 24px;
+    text-align: center;
+    transition: background-color 0.2s ease, color 0.2s ease, border-color 0.2s ease; /* Added */
+}
+.settings-list-area .remove-item-btn:hover {
+    background-color: var(--error-text-color);
+    color: var(--container-bg); /* Contrast text */
+    border-color: var(--error-text-color);
 }
 
 
@@ -445,14 +565,29 @@ button { /* General button reset */
     border-radius: 5px;
     cursor: pointer;
     font-size: 1em;
-    transition: background-color 0.2s ease, color 0.2s ease, opacity 0.2s ease;
+    transition: background-color 0.2s ease, color 0.2s ease, opacity 0.2s ease, transform 0.1s ease; /* Added transform */
     font-weight: 500;
 }
 button:hover {
-     transform: none; /* Reset any global transforms */
+     /* Can add a slight transform effect globally if desired */
+     /* transform: translateY(-1px); */
 }
 
-/* Keep specific styles for action buttons */
+/* Global Themed Style for Add Buttons */
+button.add-item-btn {
+    background-color: var(--btn-add-bg);
+    color: var(--btn-add-text);
+    /* Inherits base button transition */
+}
+button.add-item-btn:hover {
+    background-color: var(--btn-add-hover-bg);
+}
+/* Note: Specific layout styles (like margin-left: auto) remain in the
+   .date-range-input-area .add-item-btn and
+   .settings-input-area .add-item-btn rules */
+
+
+/* Styles for action buttons (Load/Save on index.html) */
 .actions {
     display: flex;
     justify-content: center;
@@ -481,135 +616,10 @@ button.export-btn {
 }
 button.export-btn:hover { background-color: var(--btn-export-hover-bg); }
 
-/* --- Settings Page Specific Styles --- */
 
-/* Container for input elements + button in settings */
-.settings-input-area {
-    display: flex;
-    flex-wrap: wrap; /* Allow wrapping on smaller screens */
-    align-items: flex-end; /* Align items based on their bottom edge */
-    gap: 15px; /* Spacing between elements */
-    padding: 15px;
-    border: 1px dashed var(--border-color);
-    border-radius: 4px;
-    margin-bottom: 15px;
-}
-
-/* Allow labels and inputs to be grouped vertically */
-.settings-input-area .form-group {
-    display: flex;
-    flex-direction: column;
-    gap: 3px;
-    margin-bottom: 0; /* Remove default margin */
-    flex-grow: 1; /* Allow input groups to grow */
-}
-
-.settings-input-area label {
-    margin-bottom: 0;
-    font-size: 0.9em;
-    white-space: nowrap;
-}
-
-.settings-input-area input[type="date"],
-.settings-input-area input[type="time"],
-.settings-input-area input[type="text"] {
-    width: auto; /* Override form-wide width */
-    min-width: 130px; /* Ensure minimum usable width */
-    padding: 8px; /* Slightly smaller padding */
-}
-/* Specific width for time inputs */
-.settings-input-area input[type="time"] {
-    min-width: 100px;
-}
-
-
-/* Style the shift type input area specifically if needed */
-.settings-input-area.shift-type-inputs {
-     /* Uses flex-wrap from .settings-input-area */
-}
-
-/* Ensure button aligns nicely */
-.settings-input-area .add-item-btn {
-    margin-left: auto; /* Push button to the right */
-    flex-shrink: 0; /* Prevent button from shrinking */
-    height: fit-content; /* Align with bottom of inputs */
-    padding: 8px 15px; /* Match input padding */
-    margin-bottom: 0; /* Align baseline */
-}
-
-/* Error message styling */
-.settings-input-area .date-error {
-    color: var(--error-text-color);
-    font-size: 0.85em;
-    display: none; /* Initially hidden */
-    width: 100%; /* Take full width */
-    text-align: left;
-    margin-top: 5px; /* Space from inputs */
-    flex-basis: 100%; /* Ensure it takes a new line */
-    order: 5; /* Place it after inputs/button */
-    padding-left: 5px;
-}
-
-
-/* List area styling for settings */
-.settings-list-area {
-    display: flex;
-    flex-direction: column;
-    gap: 8px;
-    margin-top: 15px;
-    padding-left: 15px;
-    border-left: 2px solid var(--accent-color);
-    min-height: 30px; /* Visual minimum height */
-}
-
-/* Styling for added list items (generic base) */
-.settings-list-area .list-item {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    gap: 15px;
-    padding: 8px 12px;
-    background-color: var(--list-item-bg);
-    border: 1px solid var(--list-item-border);
-    border-radius: 4px;
-    font-size: 0.95em;
-}
-
-.settings-list-area .list-item span {
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis; /* Prevent long text overflow */
-}
-
-/* Specific remove button style for lists */
-.settings-list-area .remove-item-btn {
-    background-color: transparent; /* Make it less prominent */
-    color: var(--error-text-color); /* Use error color */
-    padding: 2px 6px;
-    font-size: 1.1em; /* Make X slightly larger */
-    line-height: 1;
-    font-weight: bold;
-    flex-shrink: 0;
-    border-radius: 50%; /* Make it round */
-    border: 1px solid transparent; /* Placeholder for hover */
-    min-width: 24px;
-    min-height: 24px;
-    text-align: center;
-}
-.settings-list-area .remove-item-btn:hover {
-    background-color: var(--error-text-color);
-    color: var(--container-bg); /* White/Black depending on theme */
-    border-color: var(--error-text-color);
-}
-
-/* Adjust month input width if needed */
+/* Specific styling for month input on settings.html */
 #setting-month-year {
-    padding: 10px;
-    border: 1px solid var(--input-border);
-    background-color: var(--input-bg);
-    color: var(--text-color);
-    border-radius: 4px;
-    font-size: 1em;
+    /* padding, border, background-color, color, border-radius, font-size, transition inherited from general input rule */
     max-width: 200px; /* Prevent it from becoming too wide */
-    color-scheme: var(--date-picker-scheme);
+    /* color-scheme inherited from date/time/month rule */
 }
