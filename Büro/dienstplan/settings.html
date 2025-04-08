@@ -3,57 +3,47 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!-- Changed Title -->
-    <title>JSON Editor - Allgemeine Einstellungen</title>
+    <title>Dienstplan Helfer</title>
     <link rel="stylesheet" href="./style.css">
-    <!-- Include theme handling script early -->
     <script>
         const savedTheme = localStorage.getItem('theme') || 'dark';
         document.documentElement.className = savedTheme + '-theme';
     </script>
 </head>
 <body>
-
     <nav class="navbar">
         <ul class="nav-links">
-            <li><a href="index.html">Mitarbeiter</a></li>
-            <!-- Updated Link and Active Class -->
-            <li><a href="settings.html" class="active">Allgemein</a></li>
+            <li><a href="index.html">Editor</a></li>
+            <li><a href="settings.html" class="active">Einstellungen</a></li>
         </ul>
-        <button id="theme-toggle-btn" class="theme-toggle" aria-label="Toggle Dark Mode">
-             <!-- Icon/Text set by global script.js -->
-        </button>
+        <button id="theme-toggle-btn" class="theme-toggle" aria-label="Toggle Dark Mode"></button>
     </nav>
 
-    <div class="content-container"> <!-- Re-using content container style -->
+    <div class="content-container">
         <h1>Allgemeine Einstellungen</h1>
 
-        <!-- Month/Year Selection -->
         <fieldset>
             <legend>Monat & Jahr</legend>
-            <div class="form-group">
-                <input type="month" id="setting-month-year">
-            </div>
+             <div class="form-group">
+                 <label for="setting-month-year">Zielmonat auswählen:</label>
+                 <input type="month" id="setting-month-year">
+             </div>
         </fieldset>
 
-        <!-- Team Tage -->
         <fieldset>
             <legend>Team Tage</legend>
-            <div class="settings-input-area"> <!-- New class for styling if needed -->
+            <div class="settings-input-area">
                 <label for="team-day-input">Datum:</label>
                 <input type="date" id="team-day-input">
-                <span class="date-error" id="team-day-error"></span> <!-- Error span -->
+                <span class="date-error" id="team-day-error"></span>
                 <button type="button" id="add-team-day-btn" class="add-item-btn">Hinzufügen</button>
             </div>
-            <div class="settings-list-area" id="team-days-list">
-                <!-- Added team days will appear here -->
-            </div>
+            <div class="settings-list-area" id="team-days-list"></div>
         </fieldset>
 
-        <!-- Diensttypen und Zeiten -->
         <fieldset>
             <legend>Diensttypen & Zeiten</legend>
-            <div class="settings-input-area shift-type-inputs"> <!-- New class for styling -->
+            <div class="settings-input-area shift-type-inputs">
                 <div class="form-group">
                     <label for="shift-label-input">Bezeichnung:</label>
                     <input type="text" id="shift-label-input" placeholder="z.B. Früh">
@@ -66,19 +56,37 @@
                     <label for="shift-end-time-input">Bis:</label>
                     <input type="time" id="shift-end-time-input">
                 </div>
-                 <span class="date-error" id="shift-type-error"></span> <!-- Error span -->
+                <!-- START: New Pause Input -->
+                <div class="form-group">
+                    <label for="shift-pause-time-input">Pause:</label>
+                    <input type="time" id="shift-pause-time-input" value="00:00" step="900"> <!-- Default 00:00, 15min steps -->
+                </div>
+                <!-- END: New Pause Input -->
+                 <span class="date-error" id="shift-type-error"></span>
                 <button type="button" id="add-shift-type-btn" class="add-item-btn">Hinzufügen</button>
             </div>
-            <div class="settings-list-area" id="shift-types-list">
-                <!-- Added shift types will appear here -->
-            </div>
+            <div class="settings-list-area" id="shift-types-list"></div>
         </fieldset>
 
+        <fieldset>
+            <legend>Weitere Codes</legend>
+            <div class="settings-input-area other-code-inputs">
+                <div class="form-group">
+                    <label for="code-label-input">Code:</label>
+                    <input type="text" id="code-label-input" placeholder="z.B. X" maxlength="5">
+                </div>
+                <div class="form-group">
+                    <label for="code-desc-input">Bedeutung:</label>
+                    <input type="text" id="code-desc-input" placeholder="z.B. Wunschfrei">
+                </div>
+                 <span class="date-error" id="code-error"></span>
+                <button type="button" id="add-code-btn" class="add-item-btn">Hinzufügen</button>
+            </div>
+            <div class="settings-list-area" id="codes-list"></div>
+        </fieldset>
     </div>
 
-    <!-- Global script for theme toggle MUST BE FIRST -->
     <script src="script.js"></script>
-    <!-- Page-specific script DEFER ensures DOM is ready -->
     <script src="settings.js" defer></script>
 </body>
 </html>

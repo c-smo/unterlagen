@@ -623,3 +623,20 @@ button.export-btn:hover { background-color: var(--btn-export-hover-bg); }
     max-width: 200px; /* Prevent it from becoming too wide */
     /* color-scheme inherited from date/time/month rule */
 }
+
+.settings-input-area.shift-type-inputs {
+     /* Ensure inputs can shrink/wrap if needed */
+     gap: 10px; /* Maybe reduce gap slightly */
+}
+
+.settings-input-area.shift-type-inputs .form-group {
+    min-width: 100px; /* Ensure minimum width for each group */
+    flex-basis: auto; /* Allow natural sizing based on content */
+    /* flex-grow: 1; */ /* You might remove grow if you prefer fixed widths */
+}
+
+/* Optional: Specific width for pause input if needed */
+#shift-pause-time-input {
+    min-width: 80px; /* Smaller width for pause */
+    width: auto;
+}
