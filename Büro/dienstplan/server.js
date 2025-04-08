@@ -1,16 +1,15 @@
 import { serve } from "bun";
-import { extname, join, normalize, resolve } from "path"; // Added extname, resolve, normalize
+import { extname, join, normalize, resolve } from "path";
 
-// Resolve the absolute path to the directory containing server.js
 const baseDir = resolve(import.meta.dir);
 console.log(`Serving files from: ${baseDir}`);
 
 // --- Configuration ---
-const listenHostname = "0.0.0.0"; // Listen on all available network interfaces
-const listenPort = 3000;        // Port to listen on
+const listenHostname = "0.0.0.0";
+const listenPort = 3000;
+const specificIp = "172.105.75.211"; // Define your specific IP here
 // --------------------
 
-// Basic MIME type mapping for common web files
 const mimeTypes = {
     '.html': 'text/html',
     '.css': 'text/css',
@@ -22,7 +21,6 @@ const mimeTypes = {
     '.gif': 'image/gif',
     '.svg': 'image/svg+xml',
     '.ico': 'image/x-icon',
-    // Add more types if needed (e.g., fonts: woff, woff2)
 };
 
 serve({
@@ -32,22 +30,16 @@ serve({
     const url = new URL(req.url);
     let pathname = url.pathname;
 
-    // Log the request
     const clientIp = req.headers.get('x-forwarded-for') || req.remoteAddress;
     console.log(`Request: ${req.method} ${pathname} from ${clientIp}`);
 
-    // Default to index.html for the root path "/"
     if (pathname === "/") {
       pathname = "/index.html";
     }
 
-    // --- Security Check: Prevent path traversal attacks ---
-    // Construct the full path by joining the base directory and the requested pathname
-    // Normalize the path (e.g., resolve "../") and ensure it's still within the baseDir
     const requestedPath = normalize(join(baseDir, pathname));
 
     if (!requestedPath.startsWith(baseDir)) {
-        // If the normalized path is outside the intended directory, deny access
         console.warn(`Forbidden: Path traversal attempt detected for "${pathname}" resolved to "${requestedPath}"`);
         return new Response("Forbidden", { status: 403 });
     }
@@ -55,53 +47,52 @@ serve({
     const filePath = requestedPath;
 
     try {
-        // Check if the requested file exists
         const file = Bun.file(filePath);
         const fileExists = await file.exists();
 
         if (!fileExists) {
-            // Handle case where user accesses /settings without .html
-            if (pathname === '/settings') {
+            if (pathname === '/settings') { // Redirect /settings to /settings.html
                 const possibleHtmlPath = join(baseDir, 'settings.html');
-                if (await Bun.file(possibleHtmlPath).exists()) {
-                     console.log(`Serving settings.html for request /settings`);
+                const settingsExists = await Bun.file(possibleHtmlPath).exists();
+                if (settingsExists) {
+                     console.log(`Serving: settings.html for request /settings`);
                      return new Response(Bun.file(possibleHtmlPath), {
                          headers: { 'Content-Type': 'text/html' }
                      });
                 }
             }
-            // If file doesn't exist, return 404 Not Found
             console.log(`Not Found: File not found at ${filePath}`);
             return new Response("Not Found", { status: 404 });
         }
 
-        // Determine the correct Content-Type based on the file extension
         const ext = extname(filePath).toLowerCase();
-        const contentType = mimeTypes[ext] || 'application/octet-stream'; // Default if type unknown
+        const contentType = mimeTypes[ext] || 'application/octet-stream';
 
         console.log(`Serving: ${filePath} as ${contentType}`);
-        // Serve the file with the determined Content-Type
         return new Response(file, {
             headers: { 'Content-Type': contentType }
         });
 
     } catch (error) {
-         // Catch errors during file system access (e.g., permission errors)
          console.error(`Error accessing file ${filePath}:`, error);
-         // Check if the error is specifically a "file not found" type, even if exists() check passed (race condition?)
          if (error.code === 'ENOENT') {
             return new Response("Not Found", { status: 404 });
          }
-         // For other errors, return a generic server error
          return new Response("Internal Server Error", { status: 500 });
     }
   },
-  // General error handler for issues outside the fetch function
   error(error) {
     console.error("Server error (general):", error);
     return new Response("Internal Server Error", { status: 500 });
   },
 });
 
-// Log server start information
-console.log(`Bun server running on port ${listenPort}`);
+// --- MODIFIED LOGGING WITH CLICKABLE LINKS ---
+const ipUrl = `http://${specificIp}:${listenPort}`;
+
+// OSC 8 hyperlink format: \x1B]8;;URL\x1B\\TEXT\x1B]8;;\x1B\\
+// Note: \x1B is the ESC character. \x1B\\ is ESC + backslash.
+const ipLink = `\x1B]8;;${ipUrl}\x1B\\${ipUrl}\x1B]8;;\x1B\\`;
+
+console.log(`Access via IP:  ${ipLink}`);
+// ----------------------------------------------
